@@ -44,7 +44,7 @@ https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=123&f=.m3
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="PREMIUM",Golden Edge
 https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=124&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rh.png" group-title="PREMIUM", Golden
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rh.png" group-title="PPREMIUM", Golden
 http://190.83.119.67:8000/play/a0rh/index.m3u8
 
 
@@ -389,4 +389,173 @@ https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
 #EXTINF:-1 tvg-id="" status="online",Ondambiantal TV (Bogotà | Cundinamarca)
 https://server12.videostreaming.net:3230/stream/play.m3u8
+
+
+-------VARIOS------
+
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="General",WOW TV (576p) [Not 24/7]
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1,Latin CO Winsports (1) (P) group-title="SPORT"
+http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/114357
+
+#EXTINF:-1,Latin CO Winsports (2) (P) group-title="SPORT"
+http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/114356
+
+#EXTINF:-1,Latin CO Winsports (3) (P) group-title="SPORT"
+http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/114355
+
+#EXTINF:-1,Latin CO DIRECTV SPORTS 1  (P) group-title="SPORT"
+http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/114354
+
+#EXTINF:-1,Latin CO DIRECTV SPORTS 2  (P) group-title="SPORT"
+http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/114353
+
+#EXTINF:-1,Latin CO DIRECTV SPORTS PLUS  (P) group-title="SPORT"
+http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/114352
+
+#EXTINF:-1,INDI-: WOW Cinema group-title="General"
+http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/86886
+
+#EXTINF:-1,INDI-: WOW Music group-title="General"
+http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/86885
+
+
+-------PELICULAS-----
+
+
+#EXTINF:-1 tvg-id="" tvg-name="After. Amor infinito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6b7swg6DLqXCO3XUsMnv6RwDMW2.jpg" group-title="?CINE LATINO?",After. Amor infinito (2022)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623135.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Alive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGMuoUcI4WKYV6eTjkEwLLjvmxb.jpg" group-title="?CINE LATINO?",Alive (2020)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623136.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Animales humanos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EPy9y9l94zQyQDnMpcCyzwD4Jp.jpg" group-title="?CINE LATINO?",Animales humanos (2020)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623137.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bahubali: The Beginning (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BAjt8nSSms62uOVYn1t3C3dVto.jpg" group-title="?CINE LATINO?",Bahubali: The Beginning (2015)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623138.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Broil (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5RXeLUSrAVUjCEfFloXzuxI8ZZ.jpg" group-title="?CINE LATINO?",Broil (2020)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623139.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bulbbul (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XYEqHqvcf6vxFhNyeKZz5xbUfV.jpg" group-title="?CINE LATINO?",Bulbbul (2020)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623140.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Cosmic Sin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39acZEDXF4ahTR8ZgXBelt0AW5i.jpg" group-title="?CINE LATINO?",Cosmic Sin (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623141.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Dark Spell (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Erot7a3dR4k73cViA6zn8bFz6G.jpg" group-title="?CINE LATINO?",Dark Spell (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623142.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon: The Weapon of God (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3220Mn1llRXWUHFG2fW6r4O7pXC.jpg" group-title="?CINE LATINO?",Dragon: The Weapon of God (2022)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623143.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dreamcatcher (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3F4rrXcrS0XN5vQ5PRMvxg0yLou.jpg" group-title="?CINE LATINO?",Dreamcatcher (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623144.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Dreamkatcher (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGWhFEZ7I2ssMzVfnK6N61dHiTP.jpg" group-title="?CINE LATINO?",Dreamkatcher (2020)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623145.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Dreamland (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg" group-title="?CINE LATINO?",Dreamland (2019)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623146.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El Exorcismo De Dios (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg" group-title="?CINE LATINO?",El Exorcismo De Dios (2022)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623147.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El último zombi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM8a1dDRsJUhq1xKxq1UNdWXpod.jpg" group-title="?CINE LATINO?",El último zombi (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623148.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="En Lo Profundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvIPVmGIJ8RqPS6NVbEeYX9K0gf.jpg" group-title="?CINE LATINO?",En Lo Profundo (2022)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623149.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Gatlopp: Un Juego Entre Amigos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39h84nFtBfYd0iYm3C8Jo8naSII.jpg" group-title="?CINE LATINO?",Gatlopp: Un Juego Entre Amigos (2022)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623150.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kindred Spirits (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkIimU6crkaoBHdExqkkLbOgtPF.jpg" group-title="?CINE LATINO?",Kindred Spirits (2019)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623151.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La invitación (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTCVouK7eNjG7JYACwwMMapjD1N.jpg" group-title="?CINE LATINO?",La invitación (2022)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623152.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Tierra Errante (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBxyQTHMLJvODAQ4gB8FpGcujhp.jpg" group-title="?CINE LATINO?",La Tierra Errante (2019)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623153.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La tumba de las luciérnagas (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ29Tp6L43o1hVbyXxdtxAtLtZ3.jpg" group-title="?CINE LATINO?",La tumba de las luciérnagas (2008)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623154.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Llanto Maldito (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDCIUtqZDc9JCKuxRGiqwMuDjUE.jpg" group-title="?CINE LATINO?",Llanto Maldito (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623155.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Presencias (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgDT3uol3mdvwEg0jt1ble3l9hw.jpg" group-title="?CINE LATINO?",Presencias (2022)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623156.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Ray Donovan: The Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sw1EvOeXMGRZGWr18R4EiZs036.jpg" group-title="?CINE LATINO?",Ray Donovan: The Movie (2022)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623157.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Rock Dog 2: Renace Una Estrella (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi2Axcg9qJyeOExi3hOsycV7kZC.jpg" group-title="?CINE LATINO?",Rock Dog 2: Renace Una Estrella (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623158.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Silent Hill: Revelation (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krE4lUmlWPNML2GI3JSr8LcKd6l.jpg" group-title="?CINE LATINO?",Silent Hill: Revelation (2012)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623159.avi
+
+#EXTINF:-1 tvg-id="" tvg-name="Swim (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBSqH6avxduNAnXhyIkcAfcUMJ0.jpg" group-title="?CINE LATINO?",Swim (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623160.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Assent (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7e2Qxio7thoKKL0ceZlrlDhy4h.jpg" group-title="?CINE LATINO?",The Assent (2020)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623161.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Call (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CH0d0hMIvgEEmn3ny8sxg5otps.jpg" group-title="?CINE LATINO?",The Call (2020)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623162.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Canyonlands (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYmh79O7rujbbGNJmsFU93LtpVe.jpg" group-title="?CINE LATINO?",The Canyonlands (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623163.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Connection (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4lzSUomhF0NvM2FQcp0y9EtkCr.jpg" group-title="?CINE LATINO?",The Connection (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623164.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Legion (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ssoBXQOxNhrsGJoM6Tcvm57V79.jpg" group-title="?CINE LATINO?",The Legion (2020)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623165.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pond (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1He0eU9KbNECnxeZLmsfWC11qau.jpg" group-title="?CINE LATINO?",The Pond (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623166.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Unfamiliar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Xt37loPwHjipC1qaCbfLfDcFu4.jpg" group-title="?CINE LATINO?",The Unfamiliar (2020)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623167.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Top Gunner (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3pYxiYHcPlEIW44RYdQgNQESvE.jpg" group-title="?CINE LATINO?",Top Gunner (2020)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623168.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Where the Scary Things Are (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFbQ5eWcv16pjuUA4w71Z0r24AG.jpg" group-title="?CINE LATINO?",Where the Scary Things Are (2022)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623169.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="American Liar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRmYuV0VcrpTaS4AkX1l2NHvH99.jpg" group-title="?CINE LATINO?",American Liar (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623170.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Hero Dog: The Journey Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybWtSFLVakBIVeAviZ6SsQKIuSv.jpg" group-title="?CINE LATINO?",Hero Dog: The Journey Home (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623171.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Infinitum: Subject Unknown (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrcqNcct1Y2bAUoVDQalMQZg29o.jpg" group-title="?CINE LATINO?",Infinitum: Subject Unknown (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623172.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Jakob's Wife (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsOSdY9ALwBLP41c6tAF5UXkpc0.jpg" group-title="?CINE LATINO?",Jakob's Wife (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623173.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Kill Plan (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsyNqJn1vOYNHYMBMA2aaULndgf.jpg" group-title="?CINE LATINO?",Kill Plan (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623174.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Relic (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TinKYaZtNThqo2sac1dHYv0yic.jpg" group-title="?CINE LATINO?",Relic (2020)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623175.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="SOUR (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnM5gOAk5cLwg0M5J3uELtKKOV6.jpg" group-title="?CINE LATINO?",SOUR (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623176.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La invitación (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTCVouK7eNjG7JYACwwMMapjD1N.jpg" group-title="?CINE LATINO?",La invitación (2022)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/624222.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Halloween: La Noche Final (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQstTS2Q3ZaeWu3fsGDDIr0EBnW.jpg" group-title="?CINE LATINO?",Halloween: La Noche Final (2022)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/624758.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="PussyCake (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aphTmVhDAaZwUXkfu67WsKSQbIW.jpg" group-title="?CINE LATINO?",PussyCake (2021)
+http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/669632.mkv
 
