@@ -1,57 +1,9 @@
 #EXTM3U
 
-------PREMIUM------
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ou.png" group-title="PREMIUM", HBO Family HD
-http://190.83.119.67:8000/play/a0ou/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0or.png" group-title="PREMIUM", HBO HD
-http://190.83.119.67:8000/play/a0or/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png" group-title="PREMIUM", HBO Plus HD
-http://190.83.119.67:8000/play/a0ot/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png" group-title="PREMIUM", HBO XTREME
-http://190.83.119.67:8000/play/a0ov/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="PREMIUM", HBO2 HD
-http://190.83.119.67:8000/play/a0os/index.m3u
-
-#EXTINF:-1 group-title="PREMIUM", HBO
-http://45.232.210.1:8062/play/a0b3/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM", HBO 2
-http://45.232.210.1:8062/play/a08f/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM", HBO Family
-http://45.232.210.1:8062/play/a08i/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM", HBO Plus
-http://45.232.210.1:8062/play/a08g/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ol.png" group-title="PREMIUM", Paramount
-http://190.83.119.67:8000/play/a0ol/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t9.png" group-title="PREMIUM", Paramount HD
-http://190.83.119.67:8000/play/a0t9/index.m3u8
-
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="PREMIUM",Golden Plus
-https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=122&f=.m3u8
-
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="PREMIUM",Golden
-https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=123&f=.m3u8
-
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="PREMIUM",Golden Edge
-https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=124&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rh.png" group-title="PPREMIUM", Golden
-http://190.83.119.67:8000/play/a0rh/index.m3u8
-
-
-
-
 
 ----------COLOMBIA-------
+
+
 
 #EXTINF:-1 group-title="Claro-COL", STAR CHANNEL
 http://190.27.172.226:25000/play/a00t
@@ -326,7 +278,6 @@ https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
 #EXTINF:-1 tvg-id="ATNTelevision.co" status="online",ATN Televisión (Cúcuta | Norte de Santander) (640p)
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="AvivamientoTV.co" status="online",Avivamiento TV (1080p) [Not 24/7]
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 
@@ -391,10 +342,541 @@ https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 https://server12.videostreaming.net:3230/stream/play.m3u8
 
 
--------VARIOS------
+
+
+-------ENTRETENIMIENTO------
+
+
 
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="General",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/sinlogo.png" group-title="ENTRETENIMIENTO" , Wow 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8? 
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1532830938.png" group-title="ENTRETENIMIENTO" , VC ONLINE HD 
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8 
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="ENTRETENIMIENTO" , ExtremaTv 
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png" , group-title="ENTRETENIMIENTO", TeleSafor 
+http://video.telesafor.com/hls/video_low.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png", group-title="ENTRETENIMIENTO", TV Galicia America 
+http://america-crtvg.flumotion.com/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png", group-title="ENTRETENIMIENTO", TV Galicia Europa 
+http://europa-crtvg.flumotion.com/playlist.m3u8 
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png", group-title="ENTRETENIMIENTO",TLX 
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+
+#EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e78fe978011637.5c98f0b4acf24.png", group-title="CINE",BBC DRAMA 
+https://n9.cl/yd2lg
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
+http://flash.shortgod.com/dnuevo21/tv1.php?c=1 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=734 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN
+http://flash.shortgod.com/dnuevo21/tv1.php?c=146 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=804
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="Entretenimiento",Az CorazÃ³n
+http://flash.shortgod.com/dnuevo21/tv1.php?c=166 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",Comedy Central
+http://flash.shortgod.com/dnuevo21/tv1.php?c=135 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",Comedy Central Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=740 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="Entretenimiento",Distrito Comedia
+http://flash.shortgod.com/dnuevo21/tv1.php?c=32
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="Entretenimiento",E!
+http://flash.shortgod.com/dnuevo21/tv1.php?c=33 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="Entretenimiento",El Gourmet
+http://flash.shortgod.com/dnuevo21/tv1.php?c=157 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Entretenimiento",Estrella TV
+http://flash.shortgod.com/dnuevo21/tv1.php?c=177 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="Entretenimiento",Fox Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=750 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento",Fox Life Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=746 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX
+http://flash.shortgod.com/dnuevo21/tv1.php?c=42 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=749  
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento",Hola TV
+http://flash.shortgod.com/dnuevo21/tv1.php?c=189 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento",Lifetime
+http://flash.shortgod.com/dnuevo21/tv1.php?c=152 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" group-title="Entretenimiento",MÃ¡s chic
+http://flash.shortgod.com/dnuevo21/tv1.php?c=180
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Miami TV
+http://flash.shortgod.com/dnuevo21/tv1.php?c=251 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7",Pokemon 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=420 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 1
+http://flash.shortgod.com/dnuevo21/tv1.php?c=847 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 10
+http://flash.shortgod.com/dnuevo21/tv1.php?c=856 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 11
+http://flash.shortgod.com/dnuevo21/tv1.php?c=858 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 2
+http://flash.shortgod.com/dnuevo21/tv1.php?c=848 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 20
+http://flash.shortgod.com/dnuevo21/tv1.php?c=867 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 21 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=868 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 22 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=869 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 23 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=870 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 24 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=871 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 25 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=873 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 26 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=874 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 27 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=876 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 28 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=875 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 29 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=872 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 3
+http://flash.shortgod.com/dnuevo21/tv1.php?c=849 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 30 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=877 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 4
+http://flash.shortgod.com/dnuevo21/tv1.php?c=850 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 5
+http://flash.shortgod.com/dnuevo21/tv1.php?c=851 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 6
+http://flash.shortgod.com/dnuevo21/tv1.php?c=852 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=853 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 8
+http://flash.shortgod.com/dnuevo21/tv1.php?c=854 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 9
+http://flash.shortgod.com/dnuevo21/tv1.php?c=855 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="Entretenimiento",Sony
+http://flash.shortgod.com/dnuevo21/tv1.php?c=145 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="Entretenimiento",Star
+http://flash.shortgod.com/dnuevo21/tv1.php?c=45 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="HD",Star Hits HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=491 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento",Star Life
+http://flash.shortgod.com/dnuevo21/tv1.php?c=50 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="HD",Star Life HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=652 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" group-title="Entretenimiento",Star Series
+http://flash.shortgod.com/dnuevo21/tv1.php?c=303 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" group-title="Entretenimiento",Star Series Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=745 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" group-title="HD",Star Series HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=492 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="Entretenimiento",TBS Very Funny
+http://flash.shortgod.com/dnuevo21/tv1.php?c=171 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
+http://flash.shortgod.com/dnuevo21/tv1.php?c=885 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="Entretenimiento",Telemundo
+http://flash.shortgod.com/dnuevo21/tv1.php?c=92 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="Entretenimiento",TLC
+http://flash.shortgod.com/dnuevo21/tv1.php?c=87 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="Entretenimiento",Tlnovelas
+http://flash.shortgod.com/dnuevo21/tv1.php?c=94 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="HD",Tlnovelas HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=832 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento",TNT Series
+http://flash.shortgod.com/dnuevo21/tv1.php?c=90 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento",TNT Series Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=757 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="Entretenimiento",TruTV
+http://flash.shortgod.com/dnuevo21/tv1.php?c=96 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="Entretenimiento",Unicable
+http://flash.shortgod.com/dnuevo21/tv1.php?c=98 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_cinema.png" group-title="Entretenimiento",Univeral Cinema
+http://flash.shortgod.com/dnuevo21/tv1.php?c=902 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png" group-title="Entretenimiento",Univeral Comedy
+http://flash.shortgod.com/dnuevo21/tv1.php?c=903 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png" group-title="Entretenimiento",Univeral Crime
+http://flash.shortgod.com/dnuevo21/tv1.php?c=904 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="Entretenimiento",Univeral Premiere
+http://flash.shortgod.com/dnuevo21/tv1.php?c=901 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png" group-title="Entretenimiento",Univeral Reality
+http://flash.shortgod.com/dnuevo21/tv1.php?c=905
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" group-title="Entretenimiento",Univision
+http://flash.shortgod.com/dnuevo21/tv1.php?c=99 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Univision Tlnovelas
+http://flash.shortgod.com/dnuevo21/tv1.php?c=413
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento",Warner Channel
+http://flash.shortgod.com/dnuevo21/tv1.php?c=102 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento",Warner Channel Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=759 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento",AMC
+http://flash.shortgod.com/dnuevo21/tv1.php?c=183 
+
+
+
+
+------PREMIUM------
+
+
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ou.png" group-title="PREMIUM", HBO Family HD
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0or.png" group-title="PREMIUM", HBO HD
+http://190.83.119.67:8000/play/a0or/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png" group-title="PREMIUM", HBO Plus HD
+http://190.83.119.67:8000/play/a0ot/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png" group-title="PREMIUM", HBO XTREME
+http://190.83.119.67:8000/play/a0ov/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="PREMIUM", HBO2 HD
+http://190.83.119.67:8000/play/a0os/index.m3u
+
+#EXTINF:-1 group-title="PREMIUM", HBO
+http://45.232.210.1:8062/play/a0b3/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM", HBO 2
+http://45.232.210.1:8062/play/a08f/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM", HBO Family
+http://45.232.210.1:8062/play/a08i/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM", HBO Plus
+http://45.232.210.1:8062/play/a08g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ol.png" group-title="PREMIUM", Paramount
+http://190.83.119.67:8000/play/a0ol/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t9.png" group-title="PREMIUM", Paramount HD
+http://190.83.119.67:8000/play/a0t9/index.m3u8
+
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="PREMIUM",Golden Plus
+https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=122&f=.m3u8
+
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="PREMIUM",Golden
+https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=123&f=.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="PREMIUM",Golden Edge
+https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=124&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rh.png" group-title="PPREMIUM", Golden
+http://190.83.119.67:8000/play/a0rh/index.m3u8
+
+
+
+
+
+-------PELICULAS-----
+
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" group-title="Peliculas",Az Cinema
+http://flash.shortgod.com/dnuevo21/tv1.php?c=186 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Accion
+http://flash.shortgod.com/dnuevo21/tv1.php?c=699 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Accion HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=706 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Accion Sagas
+http://flash.shortgod.com/dnuevo21/tv1.php?c=700 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Accion Sagas HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=707 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Comedia 1
+http://flash.shortgod.com/dnuevo21/tv1.php?c=695 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Comedia 1 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=914 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Comedia 2
+http://flash.shortgod.com/dnuevo21/tv1.php?c=696 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Comedia 2 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=915 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Ficcion/Fantasia 1
+http://flash.shortgod.com/dnuevo21/tv1.php?c=709 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Ficcion/Fantasia 2
+http://flash.shortgod.com/dnuevo21/tv1.php?c=710 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Ficcion/Fantasia HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=712 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Infantil
+http://flash.shortgod.com/dnuevo21/tv1.php?c=687 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Infantil HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=702 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Infantil Sagas
+http://flash.shortgod.com/dnuevo21/tv1.php?c=694 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Infantil Sagas HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=703 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Peliculas",Cine Latino
+http://flash.shortgod.com/dnuevo21/tv1.php?c=295 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Marvel
+http://flash.shortgod.com/dnuevo21/tv1.php?c=697 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Marvel HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=701 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Romance
+http://flash.shortgod.com/dnuevo21/tv1.php?c=689 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Romance HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=705 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Terror
+http://flash.shortgod.com/dnuevo21/tv1.php?c=693 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Terror HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=704 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Zombis
+http://flash.shortgod.com/dnuevo21/tv1.php?c=688 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Zombis HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=917 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal
+http://flash.shortgod.com/dnuevo21/tv1.php?c=18 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=738 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="HD",Cinecanal HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=479 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax
+http://flash.shortgod.com/dnuevo21/tv1.php?c=20 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=739 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="Peliculas",De PelÃ­cula
+http://flash.shortgod.com/dnuevo21/tv1.php?c=21 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas",DHE
+http://flash.shortgod.com/dnuevo21/tv1.php?c=844 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="Peliculas",FXM
+http://flash.shortgod.com/dnuevo21/tv1.php?c=43 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="HD",FXM HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=488
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas",Golden
+http://flash.shortgod.com/dnuevo21/tv1.php?c=57 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Peliculas",Golden Edge
+http://flash.shortgod.com/dnuevo21/tv1.php?c=58 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="HD",Golden HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=496 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
+http://flash.shortgod.com/dnuevo21/tv1.php?c=62 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO (EN)
+http://flash.shortgod.com/dnuevo21/tv1.php?c=723 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2
+http://flash.shortgod.com/dnuevo21/tv1.php?c=300 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2 (EN)
+http://flash.shortgod.com/dnuevo21/tv1.php?c=724 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="HD",HBO 2 HD (EN)
+http://flash.shortgod.com/dnuevo21/tv1.php?c=733 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas",HBO Family
+http://flash.shortgod.com/dnuevo21/tv1.php?c=63 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus
+http://flash.shortgod.com/dnuevo21/tv1.php?c=64 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus (EN)
+http://flash.shortgod.com/dnuevo21/tv1.php?c=722 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="HD",HBO Plus HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=655 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="HD",HBO Plus Oeste HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=728 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
+http://flash.shortgod.com/dnuevo21/tv1.php?c=814 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas",I.Sat
+http://flash.shortgod.com/dnuevo21/tv1.php?c=153
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="Peliculas",MultiPremier
+http://flash.shortgod.com/dnuevo21/tv1.php?c=294 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Peliculas",Paramount
+http://flash.shortgod.com/dnuevo21/tv1.php?c=200 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="HD",Paramount HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=647
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/showtime.png" group-title="Peliculas",Showtime
+http://flash.shortgod.com/dnuevo21/tv1.php?c=679 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas",Space
+http://flash.shortgod.com/dnuevo21/tv1.php?c=83 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas",Space Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=751 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png" group-title="Peliculas",Star Action
+http://flash.shortgod.com/dnuevo21/tv1.php?c=46 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png" group-title="HD",Star Action HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=490 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_cinema.png" group-title="Peliculas",Star Cinema
+http://flash.shortgod.com/dnuevo21/tv1.php?c=47 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_classics.png" group-title="Peliculas",Star Classics
+http://flash.shortgod.com/dnuevo21/tv1.php?c=48 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="Peliculas",Star Fun
+http://flash.shortgod.com/dnuevo21/tv1.php?c=49 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="HD",Star Fun HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=840 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="HD",Star HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=489 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="Peliculas",Star Hits
+http://flash.shortgod.com/dnuevo21/tv1.php?c=51 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="Peliculas",Star Hits Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=747 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Peliculas",Starz Cinema
+http://flash.shortgod.com/dnuevo21/tv1.php?c=680 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_comedy.png" group-title="Peliculas",Starz Comedy
+http://flash.shortgod.com/dnuevo21/tv1.php?c=681 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="Peliculas",Starz Encore Action
+http://flash.shortgod.com/dnuevo21/tv1.php?c=682  
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_hd.png" group-title="HD",Starz HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=685 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="Peliculas",Studio Universal
+http://flash.shortgod.com/dnuevo21/tv1.php?c=84 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="HD",Studio Universal HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=830 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Peliculas",SyFy
+http://flash.shortgod.com/dnuevo21/tv1.php?c=151 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Peliculas",SyFy Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=758 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Peliculas",TCM
+http://flash.shortgod.com/dnuevo21/tv1.php?c=85 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas",TNT
+http://flash.shortgod.com/dnuevo21/tv1.php?c=179 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas",TNT Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=752 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="Peliculas",Universal
+http://flash.shortgod.com/dnuevo21/tv1.php?c=137
+
+
+--------DEPORTES--------
+
+
 
 #EXTINF:-1,Latin CO Winsports (1) (P) group-title="SPORT"
 http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/114357
@@ -414,148 +896,603 @@ http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/114353
 #EXTINF:-1,Latin CO DIRECTV SPORTS PLUS  (P) group-title="SPORT"
 http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/114352
 
-#EXTINF:-1,INDI-: WOW Cinema group-title="General"
-http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/86886
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 Vale 
+http://magmas5.com:8000/malotv/gratis/4827 
 
-#EXTINF:-1,INDI-: WOW Music group-title="General"
-http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/86885
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/b0xo6", group-title="DEPORTES", LaLiga 1 
+https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=916&f=.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/do0yv", group-title="DEPORTES", Tnt Sports Stadium CL 
+https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/zo3ri", group-title="DEPORTES", ESPN 1 PY 
+https://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8?aaa 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/zo3ri", group-title="DEPORTES", ESPN 1 ARGENTINA 
+https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=34&f=.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-2_m.png", group-title="DEPORTES", ESPN 2 ARGENTINA 
+https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=35&f=.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/jncul", group-title="DEPORTES", ESPN 3 ARGENTINA 
+https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=485&f=.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://i.imgur.com/G9nJy7y.png", group-title="DEPORTES", ESPN 4 ARGENTINA 
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png", group-title="DEPORTES", ESPN EXTRA ARGENTINA 
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/g1h40", group-title="DEPORTES", Fox Sports Premium 
+https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_1499968=10002-mp4a_145200_spa=20001.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/bftx1", group-title="DEPORTES", Fox Sports 1 ARG 
+https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=51&f=.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/rfce1", group-title="DEPORTES", Fox Sports 2 ARG 
+https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=53&f=.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://i.imgur.com/VxIZXH9.png", group-title="DEPORTES", Fox Sports 3 ARG 
+https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=54&f=.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/okvr3", group-title="DEPORTES", TyC SPORTS ARG 
+https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/okvr3", group-title="DEPORTES", TyC SPORTS ARG OPC 2 
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/21vh2s", group-title="DEPORTES", TNT SPORTS CHILE 
+https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-92-211/nqefwinooiewpeof/1646158252/src/live.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/jncul", group-title="DEPORTES", MARCA CLARO MX 
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="DEPORTES", BEIN SPORTS Ñ EXTRA 
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="DEPORTES",Afizzionados 
+https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=878&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes",Afizzionados
+http://flash.shortgod.com/dnuevo21/tv1.php?c=878 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="Deportes",AyM Sports
+http://flash.shortgod.com/dnuevo21/tv1.php?c=148
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Deportes",BeinSports
+http://flash.shortgod.com/dnuevo21/tv1.php?c=753 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="HD",BeinSports HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=9 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Deportes",BeinSports Ã‘
+http://flash.shortgod.com/dnuevo21/tv1.php?c=761 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="HD",BeinSports Ã‘ HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=376 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes",Canal+ Toros
+http://flash.shortgod.com/dnuevo21/tv1.php?c=369 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes",CDF Premium
+http://flash.shortgod.com/dnuevo21/tv1.php?c=318 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png" group-title="HD",CDF Premium HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=725 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="Deportes",CDN Sportsmax
+http://flash.shortgod.com/dnuevo21/tv1.php?c=206 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdo.png" group-title="Deportes",CDO
+http://flash.shortgod.com/dnuevo21/tv1.php?c=513 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="Deportes",CDO Premium
+http://flash.shortgod.com/dnuevo21/tv1.php?c=401 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="Deportes",Claro Sports
+http://flash.shortgod.com/dnuevo21/tv1.php?c=328 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="Deportes",DeporTV
+http://flash.shortgod.com/dnuevo21/tv1.php?c=139 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes",DirectTV Sports
+http://flash.shortgod.com/dnuevo21/tv1.php?c=259 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Deportes",DirectTV Sports 2
+http://flash.shortgod.com/dnuevo21/tv1.php?c=667 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="HD",DirectTV Sports Peru HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=879
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="Deportes",Eurosport
+http://flash.shortgod.com/dnuevo21/tv1.php?c=39 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN
+http://flash.shortgod.com/dnuevo21/tv1.php?c=34 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2
+http://flash.shortgod.com/dnuevo21/tv1.php?c=35 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="HD",ESPN 2 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=484 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2 MX
+http://flash.shortgod.com/dnuevo21/tv1.php?c=531 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="HD",ESPN 3 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=485 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN Chile
+http://flash.shortgod.com/dnuevo21/tv1.php?c=842 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="HD",ESPN HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=486 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN MX
+http://flash.shortgod.com/dnuevo21/tv1.php?c=530 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes",ESPN Plus
+http://flash.shortgod.com/dnuevo21/tv1.php?c=37 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="HD",ESPN Plus HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=487 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",Formula 1 TV (F1)
+http://flash.shortgod.com/dnuevo21/tv1.php?c=192 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
+http://flash.shortgod.com/dnuevo21/tv1.php?c=52 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2
+http://flash.shortgod.com/dnuevo21/tv1.php?c=53 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD",Fox Sports 2 Argentina HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=770 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD",Fox Sports 2 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=494 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2 MX
+http://flash.shortgod.com/dnuevo21/tv1.php?c=528 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports 3
+http://flash.shortgod.com/dnuevo21/tv1.php?c=54 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="HD",Fox Sports 3 HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=839 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD",Fox Sports Argentina HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=769 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD",Fox Sports HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=493 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX
+http://flash.shortgod.com/dnuevo21/tv1.php?c=527 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=748 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes",Fox Sports Premium
+http://flash.shortgod.com/dnuevo21/tv1.php?c=512 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="HD",Fox Sports Premium HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=658 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=402 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports Sur 2
+http://flash.shortgod.com/dnuevo21/tv1.php?c=410 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports Sur 3
+http://flash.shortgod.com/dnuevo21/tv1.php?c=511 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes",Gol Peru
+http://flash.shortgod.com/dnuevo21/tv1.php?c=686 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes",Gol TV
+http://flash.shortgod.com/dnuevo21/tv1.php?c=287 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="HD",Gol TV HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=514
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes",Liga de Campeones
+http://flash.shortgod.com/dnuevo21/tv1.php?c=890 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes",Liga de Campeones 2
+http://flash.shortgod.com/dnuevo21/tv1.php?c=893 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mlb.png" group-title="Deportes",MLB Network
+http://flash.shortgod.com/dnuevo21/tv1.php?c=293 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes",Movistar Deportes
+
+http://flash.shortgod.com/dnuevo21/tv1.php?c=366 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="Deportes",Movistar Deportes 2
+http://flash.shortgod.com/dnuevo21/tv1.php?c=367 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_laliga.png" group-title="HD",Movistar LaLiga HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=916 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png" group-title="Deportes",NBA
+http://flash.shortgod.com/dnuevo21/tv1.php?c=838 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png" group-title="Deportes",NFL Network
+http://flash.shortgod.com/dnuevo21/tv1.php?c=204 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png" group-title="Deportes",PX TV
+http://flash.shortgod.com/dnuevo21/tv1.php?c=193 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Deportes",Real Madrid TV
+http://flash.shortgod.com/dnuevo21/tv1.php?c=270
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/skysports.png" group-title="Deportes",SKY Sports MX HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=900 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes",TigoSports Bolivia
+http://flash.shortgod.com/dnuevo21/tv1.php?c=764 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes",TigoSports Paraguay
+http://flash.shortgod.com/dnuevo21/tv1.php?c=843 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes",TNT Sports
+http://flash.shortgod.com/dnuevo21/tv1.php?c=509 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes",TNT Sports Chile
+http://flash.shortgod.com/dnuevo21/tv1.php?c=906 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
+http://flash.shortgod.com/dnuevo21/tv1.php?c=698 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN (Pocos Datos)
+http://flash.shortgod.com/dnuevo21/tv1.php?c=822 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="HD",TUDN HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=801 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN USA
+http://flash.shortgod.com/dnuevo21/tv1.php?c=86 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="HD",TUDN USA HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=821 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvcdeportes.png" group-title="Deportes",TVC Deportes
+http://flash.shortgod.com/dnuevo21/tv1.php?c=837 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Deportes",Tyc Sports
+http://flash.shortgod.com/dnuevo21/tv1.php?c=274 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" group-title="Deportes",UFC Network
+http://flash.shortgod.com/dnuevo21/tv1.php?c=97 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisiondeportes.png" group-title="Deportes",UnivisiÃ³n Deportes
+http://flash.shortgod.com/dnuevo21/tv1.php?c=373 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Deportes",UnivisiÃ³n TDN
+http://flash.shortgod.com/dnuevo21/tv1.php?c=100 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes",Win Sports
+http://flash.shortgod.com/dnuevo21/tv1.php?c=292 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="Deportes",Win Sports +
+http://flash.shortgod.com/dnuevo21/tv1.php?c=881 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="HD",Win Sports + HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=802 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="HD",Win Sports HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=754 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" group-title="Deportes",WWE Network
+http://flash.shortgod.com/dnuevo21/tv1.php?c=276
 
 
--------PELICULAS-----
 
 
-#EXTINF:-1 tvg-id="" tvg-name="After. Amor infinito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6b7swg6DLqXCO3XUsMnv6RwDMW2.jpg" group-title="?CINE LATINO?",After. Amor infinito (2022)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623135.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Alive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGMuoUcI4WKYV6eTjkEwLLjvmxb.jpg" group-title="?CINE LATINO?",Alive (2020)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623136.mp4
+-------------24/7-----------
 
-#EXTINF:-1 tvg-id="" tvg-name="Animales humanos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EPy9y9l94zQyQDnMpcCyzwD4Jp.jpg" group-title="?CINE LATINO?",Animales humanos (2020)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623137.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Bahubali: The Beginning (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BAjt8nSSms62uOVYn1t3C3dVto.jpg" group-title="?CINE LATINO?",Bahubali: The Beginning (2015)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623138.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Broil (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5RXeLUSrAVUjCEfFloXzuxI8ZZ.jpg" group-title="?CINE LATINO?",Broil (2020)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623139.mp4
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=426 
 
-#EXTINF:-1 tvg-id="" tvg-name="Bulbbul (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XYEqHqvcf6vxFhNyeKZz5xbUfV.jpg" group-title="?CINE LATINO?",Bulbbul (2020)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623140.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=677 
 
-#EXTINF:-1 tvg-id="" tvg-name="Cosmic Sin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39acZEDXF4ahTR8ZgXBelt0AW5i.jpg" group-title="?CINE LATINO?",Cosmic Sin (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623141.mkv
+#EXTINF:-1 tvg-logo="" group-title="24/7",Barbie 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=788 
 
-#EXTINF:-1 tvg-id="" tvg-name="Dark Spell (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Erot7a3dR4k73cViA6zn8bFz6G.jpg" group-title="?CINE LATINO?",Dark Spell (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623142.mp4
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=518 
 
-#EXTINF:-1 tvg-id="" tvg-name="Dragon: The Weapon of God (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3220Mn1llRXWUHFG2fW6r4O7pXC.jpg" group-title="?CINE LATINO?",Dragon: The Weapon of God (2022)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623143.mp4
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="Entretenimiento",Breaking Bad 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=846 
 
-#EXTINF:-1 tvg-id="" tvg-name="Dreamcatcher (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3F4rrXcrS0XN5vQ5PRMvxg0yLou.jpg" group-title="?CINE LATINO?",Dreamcatcher (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623144.mkv
+#EXTINF:-1 tvg-logo="" group-title="24/7",Brickleberry 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=789 
 
-#EXTINF:-1 tvg-id="" tvg-name="Dreamkatcher (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGWhFEZ7I2ssMzVfnK6N61dHiTP.jpg" group-title="?CINE LATINO?",Dreamkatcher (2020)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623145.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=427 
 
-#EXTINF:-1 tvg-id="" tvg-name="Dreamland (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg" group-title="?CINE LATINO?",Dreamland (2019)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623146.mkv
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Candy Candy 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=808 
 
-#EXTINF:-1 tvg-id="" tvg-name="El Exorcismo De Dios (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg" group-title="?CINE LATINO?",El Exorcismo De Dios (2022)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623147.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7",Cantinflas 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=428 
 
-#EXTINF:-1 tvg-id="" tvg-name="El último zombi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM8a1dDRsJUhq1xKxq1UNdWXpod.jpg" group-title="?CINE LATINO?",El último zombi (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623148.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/casocerrado.png" group-title="24/7",Caso Cerrado 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=907 
 
-#EXTINF:-1 tvg-id="" tvg-name="En Lo Profundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvIPVmGIJ8RqPS6NVbEeYX9K0gf.jpg" group-title="?CINE LATINO?",En Lo Profundo (2022)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623149.mp4
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" group-title="24/7",CatDog 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=785 
 
-#EXTINF:-1 tvg-id="" tvg-name="Gatlopp: Un Juego Entre Amigos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39h84nFtBfYd0iYm3C8Jo8naSII.jpg" group-title="?CINE LATINO?",Gatlopp: Un Juego Entre Amigos (2022)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623150.mp4
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",Chapulin Colorado 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=418 
 
-#EXTINF:-1 tvg-id="" tvg-name="Kindred Spirits (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkIimU6crkaoBHdExqkkLbOgtPF.jpg" group-title="?CINE LATINO?",Kindred Spirits (2019)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623151.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7",Chespirito 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=417 
 
-#EXTINF:-1 tvg-id="" tvg-name="La invitación (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTCVouK7eNjG7JYACwwMMapjD1N.jpg" group-title="?CINE LATINO?",La invitación (2022)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623152.mp4
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7",Coraje el Perro Cobarde 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=519 
 
-#EXTINF:-1 tvg-id="" tvg-name="La Tierra Errante (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBxyQTHMLJvODAQ4gB8FpGcujhp.jpg" group-title="?CINE LATINO?",La Tierra Errante (2019)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623153.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/csi_miami.png" group-title="24/7",CSI: Miami 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=908
 
-#EXTINF:-1 tvg-id="" tvg-name="La tumba de las luciérnagas (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ29Tp6L43o1hVbyXxdtxAtLtZ3.jpg" group-title="?CINE LATINO?",La tumba de las luciérnagas (2008)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623154.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7",Dinosaurios 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=670 
 
-#EXTINF:-1 tvg-id="" tvg-name="Llanto Maldito (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDCIUtqZDc9JCKuxRGiqwMuDjUE.jpg" group-title="?CINE LATINO?",Llanto Maldito (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623155.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7",Doraemon 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=521 
 
-#EXTINF:-1 tvg-id="" tvg-name="Presencias (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgDT3uol3mdvwEg0jt1ble3l9hw.jpg" group-title="?CINE LATINO?",Presencias (2022)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623156.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7",Dragon Ball 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=425 
 
-#EXTINF:-1 tvg-id="" tvg-name="Ray Donovan: The Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sw1EvOeXMGRZGWr18R4EiZs036.jpg" group-title="?CINE LATINO?",Ray Donovan: The Movie (2022)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623157.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=520 
 
-#EXTINF:-1 tvg-id="" tvg-name="Rock Dog 2: Renace Una Estrella (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi2Axcg9qJyeOExi3hOsycV7kZC.jpg" group-title="?CINE LATINO?",Rock Dog 2: Renace Una Estrella (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623158.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=424 
 
-#EXTINF:-1 tvg-id="" tvg-name="Silent Hill: Revelation (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krE4lUmlWPNML2GI3JSr8LcKd6l.jpg" group-title="?CINE LATINO?",Silent Hill: Revelation (2012)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623159.avi
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=329 
 
-#EXTINF:-1 tvg-id="" tvg-name="Swim (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBSqH6avxduNAnXhyIkcAfcUMJ0.jpg" group-title="?CINE LATINO?",Swim (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623160.mp4
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7",El Chavo Animado 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=790 
 
-#EXTINF:-1 tvg-id="" tvg-name="The Assent (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7e2Qxio7thoKKL0ceZlrlDhy4h.jpg" group-title="?CINE LATINO?",The Assent (2020)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623161.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=400 
 
-#EXTINF:-1 tvg-id="" tvg-name="The Call (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CH0d0hMIvgEEmn3ny8sxg5otps.jpg" group-title="?CINE LATINO?",The Call (2020)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623162.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7",El Coyote y el Correcaminos 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=429 
 
-#EXTINF:-1 tvg-id="" tvg-name="The Canyonlands (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYmh79O7rujbbGNJmsFU93LtpVe.jpg" group-title="?CINE LATINO?",The Canyonlands (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623163.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="Entretenimiento",El Gallo Claudio 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=845 
 
-#EXTINF:-1 tvg-id="" tvg-name="The Connection (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4lzSUomhF0NvM2FQcp0y9EtkCr.jpg" group-title="?CINE LATINO?",The Connection (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623164.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" group-title="24/7",El Increible Mundo de Gumball 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=791 
 
-#EXTINF:-1 tvg-id="" tvg-name="The Legion (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ssoBXQOxNhrsGJoM6Tcvm57V79.jpg" group-title="?CINE LATINO?",The Legion (2020)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623165.mp4
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=525 
 
-#EXTINF:-1 tvg-id="" tvg-name="The Pond (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1He0eU9KbNECnxeZLmsfWC11qau.jpg" group-title="?CINE LATINO?",The Pond (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623166.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7",El Principel del Rap 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=430 
 
-#EXTINF:-1 tvg-id="" tvg-name="The Unfamiliar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Xt37loPwHjipC1qaCbfLfDcFu4.jpg" group-title="?CINE LATINO?",The Unfamiliar (2020)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623167.mp4
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="Entretenimiento",El SeÃ±or de los Cielos 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=820 
 
-#EXTINF:-1 tvg-id="" tvg-name="Top Gunner (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3pYxiYHcPlEIW44RYdQgNQESvE.jpg" group-title="?CINE LATINO?",Top Gunner (2020)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623168.mp4
+#EXTINF:-1 tvg-logo="" group-title="24/7",Futurama 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=793 
 
-#EXTINF:-1 tvg-id="" tvg-name="Where the Scary Things Are (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFbQ5eWcv16pjuUA4w71Z0r24AG.jpg" group-title="?CINE LATINO?",Where the Scary Things Are (2022)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623169.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7",Game of Thrones 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=515 
 
-#EXTINF:-1 tvg-id="" tvg-name="American Liar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRmYuV0VcrpTaS4AkX1l2NHvH99.jpg" group-title="?CINE LATINO?",American Liar (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623170.mkv
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Garfield 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=812 
 
-#EXTINF:-1 tvg-id="" tvg-name="Hero Dog: The Journey Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybWtSFLVakBIVeAviZ6SsQKIuSv.jpg" group-title="?CINE LATINO?",Hero Dog: The Journey Home (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623171.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7",Hey Arnold 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=522
 
-#EXTINF:-1 tvg-id="" tvg-name="Infinitum: Subject Unknown (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrcqNcct1Y2bAUoVDQalMQZg29o.jpg" group-title="?CINE LATINO?",Infinitum: Subject Unknown (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623172.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7",Johnny Bravo 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=786 
 
-#EXTINF:-1 tvg-id="" tvg-name="Jakob's Wife (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsOSdY9ALwBLP41c6tAF5UXkpc0.jpg" group-title="?CINE LATINO?",Jakob's Wife (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623173.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/jorgeelcurioso.png" group-title="24/7",Jorge el Curioso 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=909 
 
-#EXTINF:-1 tvg-id="" tvg-name="Kill Plan (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsyNqJn1vOYNHYMBMA2aaULndgf.jpg" group-title="?CINE LATINO?",Kill Plan (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623174.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lafamiliamonster.png" group-title="24/7",La Familia Monster 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=910 
 
-#EXTINF:-1 tvg-id="" tvg-name="Relic (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TinKYaZtNThqo2sac1dHYv0yic.jpg" group-title="?CINE LATINO?",Relic (2020)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623175.mkv
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",La Familia PeLuche 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=811 
 
-#EXTINF:-1 tvg-id="" tvg-name="SOUR (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnM5gOAk5cLwg0M5J3uELtKKOV6.jpg" group-title="?CINE LATINO?",SOUR (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/623176.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7",La Hora Pico 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=887 
 
-#EXTINF:-1 tvg-id="" tvg-name="La invitación (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTCVouK7eNjG7JYACwwMMapjD1N.jpg" group-title="?CINE LATINO?",La invitación (2022)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/624222.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=671 
 
-#EXTINF:-1 tvg-id="" tvg-name="Halloween: La Noche Final (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQstTS2Q3ZaeWu3fsGDDIr0EBnW.jpg" group-title="?CINE LATINO?",Halloween: La Noche Final (2022)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/624758.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="24/7",La PequeÃ±a Lulu 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=792 
 
-#EXTINF:-1 tvg-id="" tvg-name="PussyCake (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aphTmVhDAaZwUXkfu67WsKSQbIW.jpg" group-title="?CINE LATINO?",PussyCake (2021)
-http://tuercatv2021.dynns.com:8080/movie/bEU7A5uKQR/kCWPtyg6Aw/669632.mkv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=886
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7",Le Temes a la Oscuridad 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=888 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7",Looney Tunes 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=524 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="24/7",Los 3 Chiflados 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=423 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="Entretenimiento",Los AÃ±os Maravillosos 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=810 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="Entretenimiento",Los Padrinos Magicos 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=813 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=669 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="24/7",Los Pinguinos de Madagascar 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=794 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="24/7",Los Pitufos 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=795 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="24/7",Los Reyes de la Colina 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=796 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 1-5) 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=894 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 12-17) 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=896 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 18-21) 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=897 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 22-26) 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=898 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 27-30) 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=899 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 6-11) 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=895 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=357 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="24/7",Los Supersonicos 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=797 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="Entretenimiento",Los Vengadores Unidos 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=818 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=911 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm HD 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=798 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="Entretenimiento",La Vaca y ElPollito 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=809 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Mr. Bean 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=431 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7",Naruto 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=523
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7",One Punch Man 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=661
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7",Padre de Familia 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=416
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="Entretenimiento",Patoaventuras 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=819 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="Entretenimiento",Patrulla Canina 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=807 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7",Peppa Pig 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=787
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7",Pinky y Cerebro 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=721 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="24/7",Pocoyo 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=799 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7",Ranma 1/2 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=419 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png" group-title="24/7",Sakura Card Captor 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=672 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="24/7",Samurai X 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=663 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="24/7",Scooby Doo 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=422 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7",Smallville 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=673 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7",South Park 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=674 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7",Spiderman 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=889 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7",Super Campeones 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=432 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="24/7",The Big Bang Theory 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=676 
+
+#EXTINF:-1 tvg-logo="" group-title="24/7",The Walking Dead 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=800 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7",Tom y Jerry 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=421
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="24/7",TrollHunters 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=662 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7",Two And a Half Men 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=675 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7",Yu-Gi-Oh! 24/7
+http://flash.shortgod.com/dnuevo21/tv1.php?c=664
+
+
+
+
+------------MUSICA------------
+
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Musica",Bandamax
+http://flash.shortgod.com/dnuevo21/tv1.php?c=8 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="Musica",HTV
+http://flash.shortgod.com/dnuevo21/tv1.php?c=66
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento",MTV
+http://flash.shortgod.com/dnuevo21/tv1.php?c=69 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="EspaÃ±a",MTV (ES)
+http://flash.shortgod.com/dnuevo21/tv1.php?c=803
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png" group-title="Musica",MTV Live
+http://flash.shortgod.com/dnuevo21/tv1.php?c=70 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento",MTV Sur
+http://flash.shortgod.com/dnuevo21/tv1.php?c=823
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Music Now
+http://flash.shortgod.com/dnuevo21/tv1.php?c=690
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png" group-title="Musica",Retro Music
+http://flash.shortgod.com/dnuevo21/tv1.php?c=692 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="Musica",Ritmoson Latino
+http://flash.shortgod.com/dnuevo21/tv1.php?c=154
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="Musica",Telehit
+http://flash.shortgod.com/dnuevo21/tv1.php?c=91
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicahd.png" group-title="Musica",Tu Musica HD
+http://flash.shortgod.com/dnuevo21/tv1.php?c=516 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="Musica",VH1
+http://flash.shortgod.com/dnuevo21/tv1.php?c=101
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png" group-title="Musica",Video Rola
+http://flash.shortgod.com/dnuevo21/tv1.php?c=359
