@@ -348,15 +348,41 @@ https://server12.videostreaming.net:3230/stream/play.m3u8
 
 
 
-#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="General",WOW TV (576p) [Not 24/7]
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/sinlogo.png" group-title="ENTRETENIMIENTO" , Wow
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png", group-title="ENTRETENIMIENTO",TLX 
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
 
-#EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e78fe978011637.5c98f0b4acf24.png", group-title="CINE",BBC DRAMA 
+#EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e78fe978011637.5c98f0b4acf24.png", group-title="ENTRETENIMIENTO",BBC DRAMA 
 https://n9.cl/yd2lg
 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1486476481.jpg" group-title="ENTRETENIMIENTO" , CampusTv
+http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1494898547.png" group-title="ENTRETENIMIENTO" , PinguinoTV
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522636293.png" group-title="ENTRETENIMIENTO" , INT CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637574.png" group-title="ENTRETENIMIENTO" , RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="ENTRETENIMIENTO" , PE - IPe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="ENTRETENIMIENTO" , ExtremaTv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528657520.png" group-title="ENTRETENIMIENTO" , CAM - Estación Espacial Int
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1532830938.png" group-title="ENTRETENIMIENTO" , VC ONLINE HD
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1533434576.png" group-title="ENTRETENIMIENTO" , Nasa
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF:-1 PREMIUM
@@ -410,28 +436,28 @@ http://190.83.119.67:8000/play/a0rh/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ou.png" group-title="PRV", HBO Family HD
 http://190.83.119.67:8000/play/a0ou/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0or.png" group-title="PRV", HBO HD
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0or.png" group-title="PREMIUM", HBO HD
 http://190.83.119.67:8000/play/a0or/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png" group-title="PRV", HBO Plus HD
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png" group-title="PREMIUM", HBO Plus HD
 http://190.83.119.67:8000/play/a0ot/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png" group-title="PRV", HBO XTREME
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png" group-title="PREMIUM", HBO XTREME
 http://190.83.119.67:8000/play/a0ov/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="PRV", HBO2 HD
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="PREMIUM", HBO2 HD
 http://190.83.119.67:8000/play/a0os/index.m3u8
 
-#EXTINF:-1 group-title="VTR", HBO
+#EXTINF:-1 group-title="PREMIUM", HBO
 http://45.232.210.1:8062/play/a0b3/index.m3u8
 
-#EXTINF:-1 group-title="VTR", HBO 2
+#EXTINF:-1 group-title="PREMIUM", HBO 2
 http://45.232.210.1:8062/play/a08f/index.m3u8
 
-#EXTINF:-1 group-title="VTR", HBO Family
+#EXTINF:-1 group-title="PREMIUM", HBO Family
 http://45.232.210.1:8062/play/a08i/index.m3u8
 
-#EXTINF:-1 group-title="VTR", HBO Plus
+#EXTINF:-1 group-title="PREMIUM", HBO Plus
 http://45.232.210.1:8062/play/a08g/index.m3u8
 
 
