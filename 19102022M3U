@@ -407,3 +407,29 @@ https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=124&f=.m3
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rh.png" group-title="PPREMIUM", Golden
 http://190.83.119.67:8000/play/a0rh/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ou.png" group-title="PRV", HBO Family HD
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0or.png" group-title="PRV", HBO HD
+http://190.83.119.67:8000/play/a0or/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png" group-title="PRV", HBO Plus HD
+http://190.83.119.67:8000/play/a0ot/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png" group-title="PRV", HBO XTREME
+http://190.83.119.67:8000/play/a0ov/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="PRV", HBO2 HD
+http://190.83.119.67:8000/play/a0os/index.m3u8
+
+#EXTINF:-1 group-title="VTR", HBO
+http://45.232.210.1:8062/play/a0b3/index.m3u8
+
+#EXTINF:-1 group-title="VTR", HBO 2
+http://45.232.210.1:8062/play/a08f/index.m3u8
+
+#EXTINF:-1 group-title="VTR", HBO Family
+http://45.232.210.1:8062/play/a08i/index.m3u8
+
+#EXTINF:-1 group-title="VTR", HBO Plus
+http://45.232.210.1:8062/play/a08g/index.m3u8
