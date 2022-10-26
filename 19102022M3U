@@ -1,9 +1,6 @@
 #EXTM3U
 
-
-#EXTINF:-1 COLOMBIA
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png", COLOMBIA
 
 #EXTINF:-1 group-title="Claro-COL", STAR CHANNEL
 http://190.27.172.226:25000/play/a00t
@@ -341,12 +338,7 @@ https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="" status="online",Ondambiantal TV (Bogotà | Cundinamarca)
 https://server12.videostreaming.net:3230/stream/play.m3u8
 
-
-
-
-#EXTINF:-1 ENTRETENIMIENTO
-
-
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-grafica-iconos-concepto-entretenimiento_53876-43181.jpg?w=2000", ENTRETENIMIENTO
 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/sinlogo.png" group-title="ENTRETENIMIENTO" , Wow
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
@@ -384,9 +376,7 @@ https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1533434576.png" group-title="ENTRETENIMIENTO" , Nasa
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
-
-#EXTINF:-1 PREMIUM
-
+#EXTINF:-1 tvg-logo="https://definicionabc.com/wp-content/uploads/2014/07/Premium.jpg", PREMIUM
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ou.png" group-title="PREMIUM", HBO Family HD
 http://190.83.119.67:8000/play/a0ou/index.m3u8
@@ -460,8 +450,7 @@ http://45.232.210.1:8062/play/a08i/index.m3u8
 #EXTINF:-1 group-title="PREMIUM", HBO Plus
 http://45.232.210.1:8062/play/a08g/index.m3u8
 
-
-#EXTINF:-1 PELICULAS
+#EXTINF:-1 tvg-logo="https://pxccdn.ciudadano.news/ciudadano/092021/1631811151036/pelis-animadas.jpg", PELICULAS
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/somewhatnerdy.com/wp-content/uploads/2017/03/The-Evil-Within-Movie-Poster.jpg" group-title="VOD A LA CARTA",The Evil Within (2019)
 http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi
