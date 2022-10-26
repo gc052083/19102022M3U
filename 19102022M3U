@@ -434,63 +434,6 @@ http://45.232.210.1:8062/play/a08i/index.m3u8
 #EXTINF:-1 group-title="VTR", HBO Plus
 http://45.232.210.1:8062/play/a08g/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO (720)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="ENTRETENIMIENTO",HBO (720)
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=1040
-
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO " tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="ENTRETENIMIENTO",HBO 
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=1041
-
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO 1 (720)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="ENTRETENIMIENTO",HBO 1 (720)
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=1043
-
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO 1 " tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="ENTRETENIMIENTO",HBO 1 
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=1044
-
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 (720)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="ENTRETENIMIENTO",HBO 2 (720)
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=1031
-
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 " tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="ENTRETENIMIENTO",HBO 2 
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=1032
-
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 (1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="ENTRETENIMIENTO",HBO 2 (1080)
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=52876
-
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family (720)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="ENTRETENIMIENTO",HBO Family (720)
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=1034
-
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family " tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="ENTRETENIMIENTO",HBO Family 
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=1035
-
-#EXTINF:-1 tvg-id="HBO Mundi Mexico" tvg-name="HBO Mundi (720)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="ENTRETENIMIENTO",HBO Mundi (720)
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=52878
-
-#EXTINF:-1 tvg-id="HBO Mundi Mexico" tvg-name="HBO Mundi " tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="ENTRETENIMIENTO",HBO Mundi 
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=53238
-
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus (1080)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="ENTRETENIMIENTO",HBO Plus (1080)
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=1434
-
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus  [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="ENTRETENIMIENTO",HBO Plus  [Dual Audio]
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=5340
-
-#EXTINF:-1 tvg-id="HBOPopMexicoAndCaribbean.mx" tvg-name="HBO POP (1080)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="ENTRETENIMIENTO",HBO POP (1080)
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=1479
-
-#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="HBO Signature (1080)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="ENTRETENIMIENTO",HBO Signature (1080)
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=53239
-
-#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="HBO Signature (720)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="ENTRETENIMIENTO",HBO Signature (720)
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=52879
-
-#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="HBO Signature " tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="ENTRETENIMIENTO",HBO Signature 
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=53240
-
-#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme (1080)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="ENTRETENIMIENTO",HBO Xtreme (1080)
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=1481
-
-#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme " tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="ENTRETENIMIENTO",HBO Xtreme 
-http://tvpremiumhd.club/lista-gratuita/213525/tv/live.php?id=1482
-
 
 #EXTINF:-1 PELICULAS
 
@@ -580,3 +523,165 @@ http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/downloa
 
 #EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg" group-title="VOD A LA CARTA",SAW VIII SUBTITULADO
 http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JzyYqis.jpg" group-title="VOD A LA CARTA",Los Tres Huastecos (1948)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
+
+#EXTINF:-1 tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg" group-title="VOD A LA CARTA",Prometeus HD
+http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+# EXTINF: -1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",ESTRENOS: Sandy Wexler (2017)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/MRAQCSAND
+
+# EXTINF: -1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",ESTRENOS: THE MINE (2017)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/THEMINE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Mine_2016_film.jpg" group-title="VOD A LA CARTA",LA MINA
+http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
+
+#EXTINF:-1 tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg" group-title="VOD A LA CARTA",SAHARA
+http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg" group-title="VOD A LA CARTA",Anon
+http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2KXck0P
+
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/592f3443db29d6c96a19b5dc/t/59f10287b7411c32b423485c/1508967068270/Samson.png" group-title="VOD A LA CARTA",Samson
+http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2rzf9gr
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg" group-title="VOD A LA CARTA",15:17 Tren a Paris
+http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2rEKfm9
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",EL MAL DENTRO (2017)
+http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2rDW7Fw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CHUCKY EL MUÑECO DIABOLICO (1988)
+http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2rDZ1dC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CHUCKY EL MUÑECO DIABOLICO 2 (1990)
+http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2wzNCAl
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",LA NOVIA DE CHUCKY (1998)
+http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2wyfKnw
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X4HR6ef.jpg" group-title="VOD A LA CARTA",Flight 462
+http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2IfCcDp
+
+#EXTINF:-1 tvg-logo="http://imgur.com/oIOuqTw.jpg" group-title="VOD A LA CARTA",Sand Castle
+http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2KislNL
+
+#EXTINF:-1 tvg-logo="http://imgur.com/z1FVkD5.jpg" group-title="VOD A LA CARTA",Sandy Wexler
+http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2jWwJ9H
+
+#EXTINF:-1 tvg-logo="http://imgur.com/91SXpSF.jpg" group-title="VOD A LA CARTA",El Muñeco diabólico 2
+http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2IitkwO
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/8DbIeCT6eBtremXmK3ZhyuvrC74.jpg" group-title="VOD A LA CARTA",El Padre del Ano
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia601508.us.archive.org/7/items/pa32d1SRREGIO/pa32d1SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-7-XqbhwtPAM/WsurmGFoCRI/AAAAAAAAomI/Cyd_4sTIxb4GDEBMb_-EX69DarhdQSZ0QCLcBGAs/s1600/El_Legado_del_Diablo_Poster_Teaser_JPosters.jpg" group-title="VOD A LA CARTA",Legado del Diablo SUBTITULADA
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801508.us.archive.org/30/items/hereSRREGIO/hereSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https://cinemaaustralia.files.wordpress.com/2017/10/jungle-cinema-australia1.jpg?w=700&h=1000" group-title="VOD A LA CARTA",Jungle
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia601501.us.archive.org/3/items/junSRREGIO/junSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81RcrC4SO6L.jpg" group-title="VOD A LA CARTA",Uncharted Movie SUBTITULADO
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia902904.us.archive.org/32/items/00subREGIO/00subREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d8/5f/28/d85f28453eec8b4ab07115db5b6d6142.jpg" group-title="VOD A LA CARTA",Emelie
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801509.us.archive.org/1/items/3033l113SRREGIO/3033l113SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://clubsieteymedio.files.wordpress.com/2018/03/1d5567129419df3aa05c81afb16e7200a045c862.jpg?w=550&h=785" group-title="VOD A LA CARTA",Matar a Jesus
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia802901.us.archive.org/31/items/m65sadf4tard6s45fjesusasadREGIO/m65sadf4tard6s45fjesusasadREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/civico/image/upload/v1502508348/entity/image/file/22f/000/598e753b658d1d2d0d00022f.jpg" group-title="VOD A LA CARTA",El Justiciero 2
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801507.us.archive.org/5/items/jus2regio/jus2regio.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/roman-483719153-large.jpg" group-title="VOD A LA CARTA",ROMAN
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801507.us.archive.org/9/items/00040regio/00040regio.mkv
+
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/9900/9961/007.jpg" group-title="VOD A LA CARTA",Emoji
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801505.us.archive.org/30/items/hlwdfbvlhdfblasREGIO/hlwdfbvlhdfblasREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/11/todo-el-dinero-del-mundo.jpg" group-title="VOD A LA CARTA",Todo El Dinero Del Mundo
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia802802.us.archive.org/24/items/70003701030003700000SRREGIOlat/70003701030003700000SRREGIOlat.mkv
+
+#EXTINF:-1 tvg-logo="https://www.elmulticine.com/imagenes/carteles/7/inside-cartel-b.jpg" group-title="VOD A LA CARTA",Terror en la Oscuridad CAST
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia802803.us.archive.org/7/items/1N51D3SRREGIOcast/1N51D3SRREGIOcast.mkv
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/teaser-trailer.com/wp-content/uploads/The-Cured-Philippines-poster.jpg?ssl=1" group-title="VOD A LA CARTA",The Cured
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia902801.us.archive.org/17/items/th3cur3dSRREGIO/th3cur3dSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://www.zoom.lk/forums/downloads/subs/Sahara17/tanva10.jpg" group-title="VOD A LA CARTA",Sahara (2017)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/sand-castle.76181.jpg" group-title="VOD A LA CARTA",Sand Castle (2017)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia600603.us.archive.org/35/items/08052017CAQM8844JR8HF/08052017CAQM.mkv
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YaCxu1RWA5I/WQCq6mASo0I/AAAAAAAAYdc/TI9FfL_x1uUBijtS37W_ntkieg8B5igTgCLcB/s1600/Sandy%2BWexler.jpg" group-title="VOD A LA CARTA",Sandy Wexler (2017)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia800605.us.archive.org/27/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1sHSnRBjxL._SL1500_.jpg" group-title="VOD A LA CARTA",Pet (2019)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia800606.us.archive.org/26/items/12052017ffsdf345345345/12052017ffsdf.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/pFyzNcy7xuwGw6mStULsgCRTEwO.jpg" group-title="VOD A LA CARTA",La Vendedora de Rosas (1998)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/[1080p]%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/cdn.cinepapaya.com/stat/img/static-cp/cine/movietranslation/3-idiotas-poster-1494884216.jpg?resize=692%2C1024&ssl=1" group-title="VOD A LA CARTA",3 idiotas
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia802807.us.archive.org/21/items/31d10745SRREGIO/31d10745SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg" group-title="VOD A LA CARTA",Anon
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia902800.us.archive.org/27/items/4nSRREGIOon/4nSRREGIOon.mkv
+
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/592f3443db29d6c96a19b5dc/t/59f10287b7411c32b423485c/1508967068270/Samson.png" group-title="VOD A LA CARTA",Samson
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia902807.us.archive.org/28/items/s4msSRREGIO/s4msSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg" group-title="VOD A LA CARTA",15:17 Tren a Paris
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia802802.us.archive.org/1/items/th3151SRREGIO/th3151SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg" group-title="VOD A LA CARTA",The Cloverfield Paradox
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",EL MAL DENTRO (2017)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CHUCKY EL MUÑECO DIABOLICO (1988)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/2jRjoj3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CHUCKY EL MUÑECO DIABOLICO 2 (1990)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/2wzNCAl
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CHUCKY EL MUÑECO DIABOLICO 3 (1991)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/2rAS0tR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",LA NOVIA DE CHUCKY (1998)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/2wyfKnw
+
+#EXTINF:-1 tvg-logo="http://dieorhack.com/wp-content/uploads/2015/02/The-Evil-Within-Hack-Cheats-Tool-Trainer-1024x576.jpg"  group-title="VOD A LA CARTA",EL MAL DENTRO (2017)
+http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Kurt Cobain: Montage of Heck
+http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Varias Lat:Volver al Futuro III
+http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",EL MAL ADENTRO(2017)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/EVILWITHIN_MOVIE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",LA BELLA DURMIENTE (CLASICA)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/LABELLAMOVIE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",MASCOTA HUMANA (2019)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/MASCOTAHUMANA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",VOLVER AL FUTURO3
+http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CASTILLO DE ARENA (2017)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/MRAQCASTI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CHUKY EL MUNHECO DIABOLICO (TERROR)
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/MRAQCCHUCK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",MI VIDA A LOS 17
+http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/2v16m9z
