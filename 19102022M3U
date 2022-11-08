@@ -498,6 +498,24 @@ http://45.232.210.1:8062/play/a08i/index.m3u8
 #EXTINF:-1 group-title="PREMIUM", HBO Plus
 http://45.232.210.1:8062/play/a08g/index.m3u8
 
+#EXTINF:-1 tvg-chno="330" tvg-logo="https://ayuda.tigo.com.bo/hc/article_attachments/4707794286227/mceclip6.png",Universal Cinema HD
+http://181.175.41.170:8000/play/a0gx
+
+#EXTINF:-1 tvg-chno="331" tvg-logo="https://ayuda.tigo.com.bo/hc/article_attachments/4707831567891/mceclip7.png",Universal Comedy HD
+http://181.175.41.170:8000/play/a0gi
+
+#EXTINF:-1 tvg-chno="332" tvg-logo="https://ayuda.tigo.com.bo/hc/article_attachments/4707852817299/mceclip8.png",Universal Crime HD
+http://181.175.41.170:8000/play/a0gh
+
+#EXTINF:-1 tvg-chno="333" tvg-logo="https://ayuda.tigo.com.bo/hc/article_attachments/4707774235539/mceclip5.png",Universal Premiere HD
+http://181.175.41.170:8000/play/a0ge
+
+#EXTINF:-1 tvg-chno="334" tvg-logo="https://ayuda.tigo.com.bo/hc/article_attachments/4707774235539/mceclip5.png",Universal Premiere 2 HD
+http://181.175.41.170:8000/play/a0gf
+
+#EXTINF:-1 tvg-chno="335" tvg-logo="https://ayuda.tigo.com.bo/hc/article_attachments/4707875527955/mceclip9.png",Universal Reality HD
+http://181.175.41.170:8000/play/a0gg
+
 #EXTINF:-1 tvg-logo="https://pxccdn.ciudadano.news/ciudadano/092021/1631811151036/pelis-animadas.jpg", PELICULAS
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/C_sate_conmigo-852565093-large.jpg", Cásate Conmigo | Phoenix'DreamsTV
