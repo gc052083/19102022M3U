@@ -465,6 +465,18 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://definicionabc.com/wp-content/uploads/2014/07/Premium.jpg", PREMIUM
 
+#EXTINF:-1 group-title="PREMIUM", HBO 2
+http://168.194.171.33:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM", HBO Family
+http://168.194.171.33:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM", HBO Plus
+http://168.194.171.33:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM", HBO XTREME SD
+http://168.194.171.33:8000/play/a00t/index.m3u8
+
 #EXTINF:-1 group-title="PREMIUM", HBO
 http://45.232.210.1:8062/play/a0b3/index.m3u8
 
@@ -476,6 +488,36 @@ http://45.232.210.1:8062/play/a08i/index.m3u8
 
 #EXTINF:-1 group-title="PREMIUM", HBO Plus
 http://45.232.210.1:8062/play/a08g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ou.png" group-title="PRV", HBO Family HD
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0or.png" group-title="PRV", HBO HD
+http://190.83.119.67:8000/play/a0or/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png" group-title="PRV", HBO Plus HD
+http://190.83.119.67:8000/play/a0ot/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png" group-title="PRV", HBO XTREME
+http://190.83.119.67:8000/play/a0ov/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="PRV", HBO2 HD
+http://190.83.119.67:8000/play/a0os/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM", 017 HBO
+http://170.79.235.29:8000/play/017
+
+#EXTINF:-1 group-title="PREMIUM", 018 HBO Family HD
+http://170.79.235.29:8000/play/018
+
+#EXTINF:-1 group-title="PREMIUM", 019 HBO Plus
+http://170.79.235.29:8000/play/019
+
+#EXTINF:-1 group-title="PREMIUM", 020 HBO Xtreme HD
+http://170.79.235.29:8000/play/020
+
+#EXTINF:-1 group-title="PREMIUM", 021 HBO 2
+http://170.79.235.29:8000/play/021
 
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="PREMIUM",Golden Plus
 https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=122&f=.m3u8
@@ -515,6 +557,12 @@ http://181.175.41.170:8000/play/a0gf
 
 #EXTINF:-1 tvg-chno="335" tvg-logo="https://ayuda.tigo.com.bo/hc/article_attachments/4707875527955/mceclip9.png",Universal Reality HD
 http://181.175.41.170:8000/play/a0gg
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ol.png" group-title="PRV", Paramount
+http://190.83.119.67:8000/play/a0ol/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t9.png" group-title="PRV", Paramount HD
+http://190.83.119.67:8000/play/a0t9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pxccdn.ciudadano.news/ciudadano/092021/1631811151036/pelis-animadas.jpg", PELICULAS
 
