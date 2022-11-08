@@ -269,11 +269,20 @@ http://190.27.172.226:25000/play/a08a
 #EXTINF:-1 group-title="Claro-COL", suram
 http://190.27.172.226:25000/play/a0bb
 
-#EXTINF:-1 group-title="TV" tvg-id="AniTV" tvg-logo="",AniTV
-https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
+#EXTINF:-1 tvg-id="AcuarioTelevision.co" status="online",Acuario Televisión (Rionegro | Antioquia)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canalacuario
+
+#EXTINF:-1 tvg-id="Amordiscos.co" status="timeout",Amordiscos (480p)
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATNTelevision.co" status="online",ATN Televisión (Cúcuta | Norte de Santander) (640p)
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV.co" status="error",ATV (Soacha | Cundinamarca) (360p) [Not 24/7]
+https://movil.ejeserver.com/live/verteve.m3u8
+
+#EXTINF:-1 tvg-id="ATV.co" status="error",ATV (Soacha | Cundinamarca) (360p) [Not 24/7]
+https://video.ejeserver.com/live/verteve.m3u8
 
 #EXTINF:-1 tvg-id="AvivamientoTV.co" status="online",Avivamiento TV (1080p) [Not 24/7]
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
@@ -287,20 +296,59 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliTV.co" status="online",Cali TV (Santiago de Cali | Valle del Cauca) (540p) [Not 24/7]
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal2Alpavision.co" status="online",Canal 2 Alpavisión (Neiva | Huila) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CampoTelevision.co" status="online",Campo Televisión (Santa Marta)
+https://video17.virtualtronics.com/streamer/canalcampotv.m3u8
+
+#EXTINF:-1 tvg-id="Canal1.co" status="blocked",Canal 1 (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+#EXTINF:-1 tvg-id="Canal2Alpavision.co" status="error",Canal 2 Alpavisión (Neiva | Huila) (720p) [Not 24/7]
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalC.co" status="online",Canal C (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CanalC.co" status="error",Canal C (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
 https://stmv2.voxtvhd.com.br/canalccali/canalccali/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalDos.co" status="timeout",Canal Dos (Yopal | Casanare) (720p) [Not 24/7]
+http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalInstitucionalTV.co" status="online",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalPyC.co" status="online",Canal PyC [Not 24/7]
 http://66.240.236.26:1935/canalpycvivo/canalpycvivo/canalpycvivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalVIP.co" status="blocked",Canal VIP
+https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F0211/02267/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" status="online",Canal Visión Dorada (720p) [Not 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" status="online",Canal Visión Dorada (720p) [Not 24/7]
+https://video.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-id="CNCCartagena.co" status="online",Canal CNC Cartagena (Cartagena | Bolívar) (720p)
 https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTV.co" status="online",CTV (Barranquilla | Atlántico) (1080p)
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eduvision.co" status="timeout",Eduvision (720p)
+http://66.240.236.25:1936/eduvision/eduvision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HuilaTV.co" status="online",Huila TV
+https://plataformavideo.com:19360/8020/8020.m3u8
+
+#EXTINF:-1 tvg-id="MasTV.co" status="online",Más TV
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1 tvg-id="MasTV.co" status="online",Más TV
+https://video.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1 tvg-id="MelodyChannel.co" status="timeout",Melody Channel Colombia (480p)
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MemoriasTV.co" status="online",Memorias TV
+https://stmv2.zcastbr.com/memoriastv/memoriastv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovieFe.co" status="online",MovieFe (360p) [Not 24/7]
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
@@ -317,8 +365,29 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-id="TDIColombia.co" status="online",TDI Colombia (720p) [Not 24/7]
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
+#EXTINF:-1 tvg-id="TeleAmiga.co" status="online",Tele Amiga (Bogotà | Cundinamarca) (480p) [Not 24/7]
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teleantioquia.co" status="online",Teleantioquia (Medellín | Antioquia) (360p) [Not 24/7]
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teleislas.co" status="online",Teleislas (San Andrés) (486p) [Not 24/7]
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemedellin.co" status="online",Telemedellin (720p) [Not 24/7]
+https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:dvrlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelemusicaTV.co" status="timeout",Telemúsica TV (480p)
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Telepacifico.co" status="online",Telepacífico (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleSanJacinto.co" status="online",Tele San Jacinto (San Jacinto | Bolivar)
+https://movil.ejeserver.com/live/telesanjacinto.m3u8
+
+#EXTINF:-1 tvg-id="TeleSanJacinto.co" status="online",Tele San Jacinto (San Jacinto | Bolivar)
+https://video.ejeserver.com/live/telesanjacinto.m3u8
 
 #EXTINF:-1 tvg-id="Trece.co" status="online",Trece (1080p)
 https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
@@ -332,8 +401,26 @@ http://179.1.7.198:1935/live/TVAgroHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGracia.co" status="online",TVGracia (720p)
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Zoom.co" status="online",Zoom (Bogotà | Cundinamarca) (1080p)
+#EXTINF:-1 tvg-id="UAOPlay.co" status="online",UAO Play
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VeoTelevision.co" status="online",Veo Televisión (Guadalajara de Buga | Valle del Cauca)
+https://movil.ejeserver.com/live/veotv.m3u8
+
+#EXTINF:-1 tvg-id="VeoTelevision.co" status="online",Veo Televisión (Guadalajara de Buga | Valle del Cauca)
+https://video.ejeserver.com/live/veotv.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.co" status="error",Zoom (Bogotà | Cundinamarca) (1080p)
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+
+#EXTINF:-1 tvg-id="ZuldemaydaCanal13.co" status="online",Zuldemayda Canal 13 (Armenia | Quindio)
+https://movil.ejeserver.com/live/zuldemayda.m3u8
+
+#EXTINF:-1 tvg-id="ZuldemaydaCanal13.co" status="online",Zuldemayda Canal 13 (Armenia | Quindio)
+https://video.ejeserver.com/live/zuldemayda.m3u8
+
+#EXTINF:-1 tvg-id="" status="blocked",Canal Caracol (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
 #EXTINF:-1 tvg-id="" status="online",Ondambiantal TV (Bogotà | Cundinamarca)
 https://server12.videostreaming.net:3230/stream/play.m3u8
@@ -378,21 +465,6 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://definicionabc.com/wp-content/uploads/2014/07/Premium.jpg", PREMIUM
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ou.png" group-title="PREMIUM", HBO Family HD
-http://190.83.119.67:8000/play/a0ou/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0or.png" group-title="PREMIUM", HBO HD
-http://190.83.119.67:8000/play/a0or/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png" group-title="PREMIUM", HBO Plus HD
-http://190.83.119.67:8000/play/a0ot/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png" group-title="PREMIUM", HBO XTREME
-http://190.83.119.67:8000/play/a0ov/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="PREMIUM", HBO2 HD
-http://190.83.119.67:8000/play/a0os/index.m3u
-
 #EXTINF:-1 group-title="PREMIUM", HBO
 http://45.232.210.1:8062/play/a0b3/index.m3u8
 
@@ -405,12 +477,6 @@ http://45.232.210.1:8062/play/a08i/index.m3u8
 #EXTINF:-1 group-title="PREMIUM", HBO Plus
 http://45.232.210.1:8062/play/a08g/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ol.png" group-title="PREMIUM", Paramount
-http://190.83.119.67:8000/play/a0ol/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t9.png" group-title="PREMIUM", Paramount HD
-http://190.83.119.67:8000/play/a0t9/index.m3u8
-
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="PREMIUM",Golden Plus
 https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=122&f=.m3u8
 
@@ -419,24 +485,6 @@ https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=123&f=.m3
 
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="PREMIUM",Golden Edge
 https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=124&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rh.png" group-title="PPREMIUM", Golden
-http://190.83.119.67:8000/play/a0rh/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ou.png" group-title="PRV", HBO Family HD
-http://190.83.119.67:8000/play/a0ou/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0or.png" group-title="PREMIUM", HBO HD
-http://190.83.119.67:8000/play/a0or/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png" group-title="PREMIUM", HBO Plus HD
-http://190.83.119.67:8000/play/a0ot/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png" group-title="PREMIUM", HBO XTREME
-http://190.83.119.67:8000/play/a0ov/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="PREMIUM", HBO2 HD
-http://190.83.119.67:8000/play/a0os/index.m3u8
 
 #EXTINF:-1 group-title="PREMIUM", HBO
 http://45.232.210.1:8062/play/a0b3/index.m3u8
@@ -452,251 +500,254 @@ http://45.232.210.1:8062/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pxccdn.ciudadano.news/ciudadano/092021/1631811151036/pelis-animadas.jpg", PELICULAS
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/somewhatnerdy.com/wp-content/uploads/2017/03/The-Evil-Within-Movie-Poster.jpg" group-title="VOD A LA CARTA",The Evil Within (2019)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/C_sate_conmigo-852565093-large.jpg", Cásate Conmigo | Phoenix'DreamsTV
+https://ia802508.us.archive.org/26/items/c-454-t-3-c-0nm-1-g-0/C454%20t3%20c0nm1%20g0.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://zapodaj.net/images/c25c2d5584bf4.jpg" group-title="VOD A LA CARTA",Angry Birds (2019)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/14/04/28/4658478.jpg", Ambulancia | Phoenix'DreamsTV
+https://ia601400.us.archive.org/13/items/4m-bu-14nc-14/4mBu_14nc14.mp4
 
-#EXTINF:-1 tvg-logo="https://sarahblogger94.files.wordpress.com/2016/08/purge_poster.jpg" group-title="VOD A LA CARTA",The Purge (2013)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2021/11/encanto-disney-poster-sinopsis.jpg", Encanto | Phoenix'DreamsTV
+https://ia601404.us.archive.org/23/items/3nc-4-nt-0/3nc4_nt0.mp4
 
-#EXTINF:-1 tvg-logo="http://104.236.196.111/imdb//media/poster_movies/or8E43rNKVBLhMtDnwFkjSNgHNr.jpg" group-title="VOD A LA CARTA",Under the Sea 3D (2009)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/U0011080pDual/U-001-1080p%20Dual.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bullet-train-757922812-large-1654676084.jpg", El Tren Bala | Phoenix'DreamsTV
+https://ia801402.us.archive.org/4/items/tr_3n/b_ull3t.mp4
 
-#EXTINF:-1 tvg-logo="http://horror.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/childs-play-2-poster.jpg" group-title="VOD A LA CARTA",Child's Play 2 (1990)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/210/358/21035814_20130903150925786.jpg", Turbo | Phoenix'DreamsTV
+https://ia902206.us.archive.org/27/items/tu-rb-0/TuRb0.mp4
 
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/back-to-the-future-part-ll.12429.jpg" group-title="VOD A LA CARTA",Back to the Future Part II (1989)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://diamondfilms.com/img/poster/62f3fe997859118340133ec2a.jpg", La Huerfana 2: El Origen | Phoenix'DreamsTV
+https://ia801508.us.archive.org/12/items/f-1r-5t-k-1ll/F1r5t_K1ll.mp4
 
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/childs-play-1988/large_6r9MOdGpOpSTH4jCQemyhPOHbZn.jpg" group-title="VOD A LA CARTA",Child's Play (1988)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Infinite_Storm-194351163-large.jpg", Infinite Storm | Phoenix'DreamsTV
+https://ia801507.us.archive.org/7/items/1nf-1n-1t-3.5t-0rm/1nf1n1t3.5t0rm.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kK9a9VBIjmh7L2uJvR01RUfS4eT.jpg" group-title="VOD A LA CARTA",Porky's Revenge (1985)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-HmxMUfvhBys/X8ttOEiZu3I/AAAAAAAAGS0/3QPvdBzMbawRLLtm4xnkJD9-AiD4EJX0wCLcBGAsYHQ/s1401/The%2BCall%2BPoster.jpg", The Call | Phoenix'DreamsTV
+https://ia801405.us.archive.org/19/items/th-3.c-4-l-l/Th3.c4_lL.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="VOD A LA CARTA",Vacaciones en Acapulco (1977)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://phantom-marca.unidadeditorial.es/b357c8a454724e126c96b9c2d058d1a7/resize/1320/f/jpg/assets/multimedia/imagenes/2022/07/05/16569736469373.jpg", Dragon Ball: Super Hero | Phoenix'DreamsTV
+https://ia801406.us.archive.org/15/items/dbs-5up-3r-h/DBS%205up3r_H.mp4
 
-#EXTINF:-1 tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/28971_la-presidenta-municipal.jpg" group-title="VOD A LA CARTA",La Presidenta Municipal (1975)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Spiderhead-162179043-large.jpg", SpiderHead | Phoenix'DreamsTV
+https://ia601509.us.archive.org/12/items/l-4-c-4b-3z-4/l4%20c4b3z4.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/dM4R0r1.jpg" group-title="VOD A LA CARTA",El Libro de Piedra (1969)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801507.us.archive.org/16/items/ElLibroDePiedra/el%20libro%20de%20piedra.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/81pD5C8ucdL._AC_SY445_.jpg", Gigantes de Acero | Phoenix'DreamsTV
+https://ia801401.us.archive.org/11/items/g1_G4.4C3r0/g1_G4.4C3r0.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/kpaLtXk.jpg" group-title="VOD A LA CARTA",Caperucita y Pulgarcito Contra los Monstruos (1960)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg", House of the Dragon | Phoenix'DreamsTV
+https://ia601405.us.archive.org/25/items/h-0u-53-dr-4g-0/H0u53_Dr4g0.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/fc/El_dolor_de_pagar_la_renta.jpg/200px-El_dolor_de_pagar_la_renta.jpg" group-title="VOD A LA CARTA",El Dolor de Pagar la Renta (1960)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801501.us.archive.org/0/items/CAPULINAELDOLORDEPAGARLARENTA/CAPULINA%20EL%20DOLOR%20DE%20%20PAGAR%20LA%20RENTA.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/FTVLioFXwAA7YwM.jpg", Predator: Prey | Phoenix'DreamsTV
+https://ia601502.us.archive.org/31/items/p.R3_y/p.R3_y0k.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/U9RiSMD.jpg" group-title="VOD A LA CARTA",Macario (1960)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801503.us.archive.org/17/items/tecnotv_201709/Macario.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguSN0jBEU45zHup7mgbfuQT5exYQ8vJDEiVnbzpegGztN6NVuZm8bhPxrOgB9x8hTiyK3NgtJkyw8yaON846YDjwnp1r8D1UEVo7WaoO_vFuIl0buw9AeZFqwHxHld2IqIwVsu2L3Bj8kkd3EJGpdT2vFI_n2oWEroDBNFpcO8JjmZSuf9ktPhvfgLBQ/s3000/black_phone_xxlg.jpg", Teléfono Negro | Phoenix'DreamsTV
+http://regioplay.xyz/228022/El.Telefono.Negro.SRREGIO.NET.mkv
 
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg" group-title="VOD A LA CARTA",Your Name
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.supercines.com.ve/source/movies/13w4v08mblmowg4oco.jpg", THOR: Love and Thunder | Phoenix'DreamsTV
+https://ia801500.us.archive.org/3/items/t-h-0-r/T_h0-r.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg" group-title="VOD A LA CARTA",Jhonny English 3.0
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/25/15/00/3011978.jpg", El Último Refugio | Phoenix'DreamsTV
+https://ia801500.us.archive.org/12/items/gr-33-nl-4-nd/Gr33_nl4%20nd.mp4
 
-#EXTINF:-1 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg" group-title="VOD A LA CARTA",Volver al Futuro
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Minions_El_origen_de_Gru-608394212-large.jpg", MINIONS: El Origen de Gru | Phoenix'DreamsTV
+https://ia802505.us.archive.org/11/items/m-1n-1-0n-5/m-1n-1-0n-5.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg" group-title="VOD A LA CARTA",Next Gen
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Moonfall-196397735-large.jpg", Moonfall | Phoenix'DreamsTV
+https://ia802505.us.archive.org/7/items/m-0-0n-f-4l-l/M0%200n%20f4lL.mp4
 
-#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg" group-title="VOD A LA CARTA",Tragedy Girls
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/05/17/26/5021573.jpg", Boss Light Year | Phoenix'DreamsTV
+https://ia601505.us.archive.org/28/items/l-1-y-3.4-r/L1_y3.4R.mp4
 
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg" group-title="VOD A LA CARTA",La Fuerza De La Ilusion
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.unpluggednews.com.mx/wp-content/uploads/2022/02/d35711d39cc4-unch-6-banner-movil.jpg", UNCHARTED | Phoenix'DreamsTV
 
-#EXTINF:-1 tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg" group-title="VOD A LA CARTA",Cuando nos Conocimos
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg" group-title="VOD A LA CARTA",La Forma del Agua SUBTITULADO
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://rechismes.com/wp-content/uploads/2022/02/Jurassic-World-Dominio-1.jpg", Jurassic World: Dominion | Phoenix'DreamsTV
+http://regioplay.xyz/228022/JurassicWorldDominio.mkv
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="VOD A LA CARTA",Nosotros Los Nobles
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Hopper_el_polloliebre-899342736-large.jpg", Chickenhare | Phoenix'DreamsTV
+https://ia601407.us.archive.org/17/items/ch-1-ck-3-nh-4r-3/Ch1_ck3%20nh4r3.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg" group-title="VOD A LA CARTA",Terminus
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://mediacdn.aent-m.com/prod-img-misc/500/4/4070774-2823653.jpg", Iron Cross: The Road To Normandy | Phoenix'DreamsTV
+https://ia801500.us.archive.org/2/items/1r-0n-cr-055/1r0n_Cr%20055.mp4
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg" group-title="VOD A LA CARTA",Deadpool
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinehdplus.net/wp-content/uploads/2022/05/q7FmdJHKMLIC4XgWfcFRIu2iVdL-185x278.jpg", El Valet | Phoenix'DreamsTV
+https://ia801406.us.archive.org/19/items/3-l-v-4-l-3-t/3L_v%204L3_t.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg" group-title="VOD A LA CARTA",Intensamente
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images7.alphacoders.com/124/1245468.jpg", Chip y Dale: Al Rescate| Phoenix'DreamsTV
+https://ia601508.us.archive.org/20/items/ch-1-p-n/Ch_1P%20%27n%20.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg" group-title="VOD A LA CARTA",JIGSAW VIII
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://dam.smashmexico.com.mx/wp-content/uploads/2022/02/doctor-strange-nuevo-poster.jpg", Doctor Strange-Multiverse of Madness | Phoenix'DreamsTV
+https://archive.org/download/d-0-ctr-5tr-4/D0_ctr%205tr4.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg" group-title="VOD A LA CARTA",Redada Asesina
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/12/Poster-Imperdonable.jpg", Imperdonable | Phoenix'DreamsTV
+https://ia902507.us.archive.org/3/items/1m-p-3rd-0n-4-bl-3/1m_P3rd0n4%20bl3.mp4
 
-#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg" group-title="VOD A LA CARTA",SAW VIII SUBTITULADO
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://animacionparaadultos.es/wp-content/uploads/2020/07/laleyendadehey.jpg", La leyenda de Hei | Phoenix'DreamsTV
+https://ia802509.us.archive.org/4/items/h-31_20220526/H31.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/JzyYqis.jpg" group-title="VOD A LA CARTA",Los Tres Huastecos (1948)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.lahiguera.net/cinemania/pelicula/9419/morbius-cartel-10232.jpg", MORBIUS | Phoenix'DreamsTV
+https://ia902507.us.archive.org/14/items/m-0r-b-1-u-5./M0r_b1%20u5..mp4
 
-#EXTINF:-1 tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg" group-title="VOD A LA CARTA",Prometeus HD
-http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/11/01/3655834.jpg", AD ASTRA | Phoenix'DreamsTV
+https://ia802206.us.archive.org/30/items/ad-astra-hacia-las-estrellas/4d%2045tr4.mp4
 
-# EXTINF: -1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",ESTRENOS: Sandy Wexler (2017)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/MRAQCSAND
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://ruizhealytimes.com/wp-content/uploads/2020/11/pesadillaenelinfierno_poster.jpg", Pesadilla en el Infierno | Phoenix'DreamsTV
+https://ia902500.us.archive.org/22/items/pesadilla-en-el-infierno-2018/Pesadilla%20en%20el%20infierno%20%282018%29.mp4
 
-# EXTINF: -1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",ESTRENOS: THE MINE (2017)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/THEMINE
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://img2.rtve.es/imagenes/poster-malasana-32/1579174451616.jpg, Malasaña 32 | Phoenix'DreamsTV
+https://ia802508.us.archive.org/26/items/malasana-32-2020-latino/Malasan%CC%83a%2032%20%282020%29%20Latino.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Mine_2016_film.jpg" group-title="VOD A LA CARTA",LA MINA
-http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Mentes_poderosas-593776668-large.jpg", Mentes Poderosas | Phoenix'DreamsTV
+https://archive.org/download/mentes-poderosas/Mentes%20Poderosas.mp4
 
-#EXTINF:-1 tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg" group-title="VOD A LA CARTA",SAHARA
-http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_49852.jpg", Proximity  | Phoenix'DreamsTV
+https://archive.org/download/Proximity/Proximity.mp4
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg" group-title="VOD A LA CARTA",Anon
-http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2KXck0P
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://cdn5.upsocl.com/wp-content/uploads/2090/03/afiche-1.jpg", Disney: TURNING RED  | Phoenix'DreamsTV
+https://archive.org/download/r-3dd-2022/R3dd2022.mp4
 
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/592f3443db29d6c96a19b5dc/t/59f10287b7411c32b423485c/1508967068270/Samson.png" group-title="VOD A LA CARTA",Samson
-http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2rzf9gr
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinembrollos.files.wordpress.com/2022/02/batman_ver29_xlg.jpg", THE BATMAN  | Phoenix'DreamsTV
+https://archive.org/download/b-4-t-m-4-n/B4%20t_m4N.mp4
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg" group-title="VOD A LA CARTA",15:17 Tren a Paris
-http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2rEKfm9
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2021/12/no-mires-arriba-poster-sinopsis1.jpg", No Mires Arriba  | Phoenix'DreamsTV
+https://ia804601.us.archive.org/4/items/n0m1r3s-4rr1b42021/n0m1r3s-4rr1b42021.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",EL MAL DENTRO (2017)
-http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2rDW7Fw
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/monstermania.jpg", Monstermanía  | Phoenix'DreamsTV
+https://ia601403.us.archive.org/26/items/m0n5t3rm4n142021/m0n5t3rm4n142021.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CHUCKY EL MUÑECO DIABOLICO (1988)
-http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2rDZ1dC
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/20/16/12/1450650.jpg", Finch | Phoenix´DreamsTV
+https://ia904601.us.archive.org/33/items/1f-1nc-0h/1f1nc0h.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CHUCKY EL MUÑECO DIABOLICO 2 (1990)
-http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2wzNCAl
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Resident_Evil_Bienvenidos_a_Raccoon_City-764554100-large.jpg", Resident Evil: Bienvenidos a Raccoon City | Phoenix´DreamsTV
+https://ia601405.us.archive.org/23/items/rp-189-pr/RP189PR.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",LA NOVIA DE CHUCKY (1998)
-http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2wyfKnw
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://kbimages1-a.akamaihd.net/84c452ca-9e34-49aa-9f0a-bdcb843207f3/1200/1200/False/hotel-transylvania-transformania-movie-novelization.jpg", Hotel Transylvania: Transformania | Phoenix´DreamsTV
+https://ia601502.us.archive.org/17/items/0t-31tr-4n-51lv-4n-142022/0t31tr4n51lv4n142022.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/X4HR6ef.jpg" group-title="VOD A LA CARTA",Flight 462
-http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2IfCcDp
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fe0hiusviaml5nj_mtu1.jpg", Matrix Resurecciones | Phoenix´DreamsTV
+https://ia801500.us.archive.org/0/items/m-4tr-1x-2021/M4tr1x2021.mp4
 
-#EXTINF:-1 tvg-logo="http://imgur.com/oIOuqTw.jpg" group-title="VOD A LA CARTA",Sand Castle
-http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2KislNL
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado | Phoenix´DreamsTV
+https://ia601504.us.archive.org/31/items/c4s42021/c4s42021.mp4
 
-#EXTINF:-1 tvg-logo="http://imgur.com/z1FVkD5.jpg" group-title="VOD A LA CARTA",Sandy Wexler
-http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2jWwJ9H
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-xFW5MwvS30w/XxhlfNtZRHI/AAAAAAAAICY/a96eYyHdng00q6PkMGjbR4MAEzFxTdDagCLcBGAsYHQ/s500/BLACKPANTER.jpg", Black Panther | Phoenix'DreamsTV
+https://ia802800.us.archive.org/30/items/Seminario8/Seminario2.mp4
 
-#EXTINF:-1 tvg-logo="http://imgur.com/91SXpSF.jpg" group-title="VOD A LA CARTA",El Muñeco diabólico 2
-http://tvpremiumhd.club/lista-gratuita/213525/on/bi.php?id=2IitkwO
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/81V1KTnYKwL._SL1371_.jpg", Avengers Infinity War | Phoenix'DreamsTV
+https://ia802800.us.archive.org/30/items/Seminario8/Seminario1.mkv
 
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/8DbIeCT6eBtremXmK3ZhyuvrC74.jpg" group-title="VOD A LA CARTA",El Padre del Ano
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia601508.us.archive.org/7/items/pa32d1SRREGIO/pa32d1SRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://irs.www.warnerbros.es/keyart-jpeg/movies/media/browser/las-brujas-1417.jpg", Las Brujas | Phoenix'DreamsTV
+https://archive.org/download/l-45-2020-bruj-45/L45%20%20%282020%29%20bruj45.mp4
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-7-XqbhwtPAM/WsurmGFoCRI/AAAAAAAAomI/Cyd_4sTIxb4GDEBMb_-EX69DarhdQSZ0QCLcBGAs/s1600/El_Legado_del_Diablo_Poster_Teaser_JPosters.jpg" group-title="VOD A LA CARTA",Legado del Diablo SUBTITULADA
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801508.us.archive.org/30/items/hereSRREGIO/hereSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9 | Phoenix'DreamsTV
+https://archive.org/download/r-4-f-0-9/R4%20%26%20F0%209.mp4
 
-#EXTINF:-1 tvg-logo="https://cinemaaustralia.files.wordpress.com/2017/10/jungle-cinema-australia1.jpg?w=700&h=1000" group-title="VOD A LA CARTA",Jungle
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia601501.us.archive.org/3/items/junSRREGIO/junSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinemagavia.es/wp-content/uploads/2021/06/Viuda-Negra-poster.jpg.webp", La Viuda Negra | Phoenix'DreamsTV
+https://archive.org/download/123-1ud-4-7n-3gr-123/123-1ud4-7n3gr123.mp4
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81RcrC4SO6L.jpg" group-title="VOD A LA CARTA",Uncharted Movie SUBTITULADO
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia902904.us.archive.org/32/items/00subREGIO/00subREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-3zvFIl_kGQY/YMNpMvzXcKI/AAAAAAAAkG0/s7rVrZrKBboSlOdvvCZyHOw7YfHglJjKACLcBGAsYHQ/s500/91iRHcxCIXS._SS500_.jpg", Infinite | Phoenix'DreamsTV
+https://archive.org/download/1nf-1n-1t-3/1nf1n1t3.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d8/5f/28/d85f28453eec8b4ab07115db5b6d6142.jpg" group-title="VOD A LA CARTA",Emelie
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801509.us.archive.org/1/items/3033l113SRREGIO/3033l113SRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/84/Jungle_Cruise_Poster_%282%29.jpg", Jungle Cruise | Phoenix'DreamsTV
+https://archive.org/download/juunng-13-cru-153/Juunng13%20%C3%87ru153.mp4
 
-#EXTINF:-1 tvg-logo="https://clubsieteymedio.files.wordpress.com/2018/03/1d5567129419df3aa05c81afb16e7200a045c862.jpg?w=550&h=785" group-title="VOD A LA CARTA",Matar a Jesus
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia802901.us.archive.org/31/items/m65sadf4tard6s45fjesusasadREGIO/m65sadf4tard6s45fjesusasadREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://rockthebestmusic.com/wp-content/uploads/2021/06/Luca-cover.jpg", Luca | Phoenix'DreamsTV
+https://archive.org/download/1uc-4_202106/1uc4.mp4
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/civico/image/upload/v1502508348/entity/image/file/22f/000/598e753b658d1d2d0d00022f.jpg" group-title="VOD A LA CARTA",El Justiciero 2
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801507.us.archive.org/5/items/jus2regio/jus2regio.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/05/26/17/45/4238572.jpg", La Guerra Del Mañana | Phoenix'DreamsTV
+https://archive.org/download/14-gu-3rr-4-d-31-m-4n-4n-4/14%20gu3rr4%20d31%20m4%C3%B14n4%20.mp4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/roman-483719153-large.jpg" group-title="VOD A LA CARTA",ROMAN
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801507.us.archive.org/9/items/00040regio/00040regio.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-PAKSao3OdO0/YC0vsj0tz2I/AAAAAAAAKpU/GIQH7QOPlyUgQ2B6hL70dV4cEJyOju06wCLcBGAsYHQ/s758/cruela-disney-emma-stone.jpg", Cruella | Phoenix'DreamsTV
+https://archive.org/download/c-7u-3ll-4/C7u3ll4.mp4
 
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/9900/9961/007.jpg" group-title="VOD A LA CARTA",Emoji
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801505.us.archive.org/30/items/hlwdfbvlhdfblasREGIO/hlwdfbvlhdfblasREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://as.com/meristation/imagenes/2021/03/17/avances/1615986299_957691_1615993077_noticia_normal_recorte1.jpg", Mortal Kombat | Phoenix'DreamsTV
+https://archive.org/download/m-0rt-4l-k-0mb-4/M0rt4l%20K0mb4%2B.mp4
 
-#EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/11/todo-el-dinero-del-mundo.jpg" group-title="VOD A LA CARTA",Todo El Dinero Del Mundo
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia802802.us.archive.org/24/items/70003701030003700000SRREGIOlat/70003701030003700000SRREGIOlat.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/03/5442885.jpg", El Joker | Phoenix'DreamsTV
+https://archive.org/download/j-0k-3r_202106/J0k3r.mp4
 
-#EXTINF:-1 tvg-logo="https://www.elmulticine.com/imagenes/carteles/7/inside-cartel-b.jpg" group-title="VOD A LA CARTA",Terror en la Oscuridad CAST
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia802803.us.archive.org/7/items/1N51D3SRREGIOcast/1N51D3SRREGIOcast.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36204-715581-20210601021907.jpg", El Conjuro 3 | Phoenix'DreamsTV
+https://archive.org/download/3l-c-0njur-0-3/3l%20%C3%A70njur0%20-%203.mp4
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/teaser-trailer.com/wp-content/uploads/The-Cured-Philippines-poster.jpg?ssl=1" group-title="VOD A LA CARTA",The Cured
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia902801.us.archive.org/17/items/th3cur3dSRREGIO/th3cur3dSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36401-547465-20210721035236.jpg", Jefe En Pañales 2 | Phoenix'DreamsTV
+https://archive.org/download/j-3f-3-3n-p-4n-4l-35-2/J3f3%203n%20P4%C3%B14l35%20-%202.mp4
 
-#EXTINF:-1 tvg-logo="http://www.zoom.lk/forums/downloads/subs/Sahara17/tanva10.jpg" group-title="VOD A LA CARTA",Sahara (2017)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Raya_y_el_ltimo_drag_n-458441308-large.jpg", Raya | Phoenix'DreamsTV
+https://archive.org/download/r-4y-4/R4y4.mp4
 
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/sand-castle.76181.jpg" group-title="VOD A LA CARTA",Sand Castle (2017)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia600603.us.archive.org/35/items/08052017CAQM8844JR8HF/08052017CAQM.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138", El Practicante | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YaCxu1RWA5I/WQCq6mASo0I/AAAAAAAAYdc/TI9FfL_x1uUBijtS37W_ntkieg8B5igTgCLcB/s1600/Sandy%2BWexler.jpg" group-title="VOD A LA CARTA",Sandy Wexler (2017)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia800605.us.archive.org/27/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1sHSnRBjxL._SL1500_.jpg" group-title="VOD A LA CARTA",Pet (2019)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia800606.us.archive.org/26/items/12052017ffsdf345345345/12052017ffsdf.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/pFyzNcy7xuwGw6mStULsgCRTEwO.jpg" group-title="VOD A LA CARTA",La Vendedora de Rosas (1998)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/[1080p]%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/cdn.cinepapaya.com/stat/img/static-cp/cine/movietranslation/3-idiotas-poster-1494884216.jpg?resize=692%2C1024&ssl=1" group-title="VOD A LA CARTA",3 idiotas
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia802807.us.archive.org/21/items/31d10745SRREGIO/31d10745SRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR12001600_RI_.jpg", Cindy La Regia | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg" group-title="VOD A LA CARTA",Anon
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia902800.us.archive.org/27/items/4nSRREGIOon/4nSRREGIOon.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1", Parasitos | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
 
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/592f3443db29d6c96a19b5dc/t/59f10287b7411c32b423485c/1508967068270/Samson.png" group-title="VOD A LA CARTA",Samson
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia902807.us.archive.org/28/items/s4msSRREGIO/s4msSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg", Verdad o Reto | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg" group-title="VOD A LA CARTA",15:17 Tren a Paris
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia802802.us.archive.org/1/items/th3151SRREGIO/th3151SRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://miro.medium.com/max/462/1*x4Whh5zcot0LB0JdZOEXnA.jpeg", El Dilema de las Redes Sociales | Phoenix´DreamsTV
+http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
 
-#EXTINF:-1 tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg" group-title="VOD A LA CARTA",The Cloverfield Paradox
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno | Phoenix´DreamsTV
+https://archive.org/download/ein-srregio/EInSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",EL MAL DENTRO (2017)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg", Volver al Futuro | Phoenix´DreamsTV
+https://archive.org/download/qwerty_202001/qwerty.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CHUCKY EL MUÑECO DIABOLICO (1988)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/2jRjoj3
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg", Volver al Futuro 2 | Phoenix´DreamsTV
+https://archive.org/download/qwerty2/qwerty2.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CHUCKY EL MUÑECO DIABOLICO 2 (1990)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/2wzNCAl
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al Futuro 3 | Phoenix´DreamsTV
+https://archive.org/download/qwerty3/qwerty3.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CHUCKY EL MUÑECO DIABOLICO 3 (1991)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/2rAS0tR
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg", Your Name | Phoenix´DreamsTV
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",LA NOVIA DE CHUCKY (1998)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/2wyfKnw
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg", Jhonny English 3.0 | Phoenix´DreamsTV
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="http://dieorhack.com/wp-content/uploads/2015/02/The-Evil-Within-Hack-Cheats-Tool-Trainer-1024x576.jpg"  group-title="VOD A LA CARTA",EL MAL DENTRO (2017)
-http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg", Volver al Futuro | Phoenix´DreamsTV
+https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Kurt Cobain: Montage of Heck
-http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen | Phoenix´DreamsTV
+https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Varias Lat:Volver al Futuro III
-http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls | Phoenix´DreamsTV
+https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",EL MAL ADENTRO(2017)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/EVILWITHIN_MOVIE
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion | Phoenix´DreamsTV  
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",LA BELLA DURMIENTE (CLASICA)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/LABELLAMOVIE
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos | Phoenix´DreamsTV  
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",MASCOTA HUMANA (2019)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/MASCOTAHUMANA
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://elcafetindelas5.files.wordpress.com/2013/03/resena-nosotros-los-nobles_121446_28022-670x503.jpg", Nosotros Los Nobles | Phoenix´DreamsTV  
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",VOLVER AL FUTURO3
-http://tvpremiumhd.club/lista-gratuita/213525/on/lives.php?id=ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox | Phoenix´DreamsTV  
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CASTILLO DE ARENA (2017)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/MRAQCASTI
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus | Phoenix´DreamsTV  
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CHUKY EL MUNHECO DIABOLICO (TERROR)
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/MRAQCCHUCK
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente | Phoenix´DreamsTV  
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",MI VIDA A LOS 17
-http://tvpremiumhd.club/lista-gratuita/213525/on/live.php?id=bit.ly/2v16m9z
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII | Phoenix´DreamsTV  
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina | Phoenix´DreamsTV  
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | Phoenix´DreamsTV  
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
